@@ -76,3 +76,6 @@ Utiliza la pestaña "Issues" de GitHub para rastrear bugs (errores) o solicitude
 Reproducibilidad: Asegúrate de que tus scripts y notebooks incluyan todos los pasos, desde la carga de los datos hasta el resultado final, para que cualquier persona pueda replicar tu análisis.
 
 Entornos Virtuales: Si usas Python o R, incluye un archivo (ej. environment.yml para Conda o requirements.txt para pip) que liste exactamente las versiones de las librerías utilizadas. Esto es crucial en bioinformática para evitar conflictos de versiones.
+
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/3449a1df-4e40-4f70-a412-dbb2be7403d4" />
