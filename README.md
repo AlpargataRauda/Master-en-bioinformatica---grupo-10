@@ -1,2 +1,2 @@
 # Master-en-bioinformatica---grupo-10
-## Me dejas cambiar esto?
+## No, no te dejo cambiarlo
