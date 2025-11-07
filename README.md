@@ -79,3 +79,6 @@ Entornos Virtuales: Si usas Python o R, incluye un archivo (ej. environment.yml 
 
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/3449a1df-4e40-4f70-a412-dbb2be7403d4" />
+
+Nuestro espiritu animal:
+![Nuestro espiritu animal:](psyduck.png)
