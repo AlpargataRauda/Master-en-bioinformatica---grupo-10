@@ -85,3 +85,8 @@ Nuestro espiritu animal:
 
 
 [Datos en crudo](./rawData)
+
+[Datos en Crudo](./rawData/)
+[Datos Procesados](./processedData/)
+[Scripts](./Scripts/)
+[Resultados](./Results/)
