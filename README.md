@@ -82,3 +82,6 @@ Entornos Virtuales: Si usas Python o R, incluye un archivo (ej. environment.yml 
 
 Nuestro espiritu animal:
 ![Nuestro espiritu animal:](psyduck.png)
+
+
+[Datos en crudo](./rawdata)
