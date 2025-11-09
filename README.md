@@ -84,4 +84,4 @@ Nuestro espiritu animal:
 ![Nuestro espiritu animal:](psyduck.png)
 
 
-[Datos en crudo](./rawdata)
+[Datos en crudo](./rawData)
