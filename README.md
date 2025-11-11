@@ -13,9 +13,9 @@ _Los resultados han sido obtenidos a partir de las base de datos Target Scan y m
 * [Resultados](./Results/)
 
 ## PARTICIPANTES EN EL REPOSITORIO
-Jose Maria Sevilla Avendaño
-Jose Antonio Celada Guerrero
-Judit Del Valle Molina
-Jesus Javier Amat Pamies
+Jose Maria Sevilla Avendaño \n
+Jose Antonio Celada Guerrero \n
+Judit Del Valle Molina \n
+Jesus Javier Amat Pamies \n
 Fatima
  
