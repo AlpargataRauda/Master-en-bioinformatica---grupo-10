@@ -8,9 +8,7 @@ Los datos se han procesado y comparado mediante un diagrama de Venn, con el obje
 Esta librería sirve como punto de partida para análisis funcionales, validación experimental o modelado de redes de regulación génica basadas en miRNAs.
 
 ## ESTRUCTURA DEL RESPOSITORIO
-* [Datos](./Data/)
-** [Datos en Crudo](./Data/rawData/)
-** [Datos Procesados](./Data/processedData/)
+* [Datos](./Data/): aquí podrás encontrar tanto los [Datos en Crudo](./Data/rawData/) como los [Datos Procesados](./Data/processedData/)
 * [Scripts](./Scripts/)
 * [Resultados](./Results/)
 
