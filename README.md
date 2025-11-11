@@ -37,23 +37,21 @@ A continuación, se detalla el uso y el tipo de contenido que se espera en cada 
 
 Este es el punto de partida de nuestro análisis. Contiene los datos necesarios para iniciar la predicción de dianas.
 
-Contenido:
+    1.1 Contenido:
+    
+       - miRNAs_de_interes.txt: Lista inicial de IDs de microRNA (ejemplo: hsa-miR-21-5p, hsa-miR-155-5p) extraídos de un estudio o base de datos.
+       - external_db/: Subcarpeta opcional para incluir copias de bases de datos de anotación o secuencias de referencia que se utilicen en el script.
 
- - miRNAs_de_interes.txt: Lista inicial de IDs de microRNA (ejemplo: hsa-miR-21-5p, hsa-miR-155-5p) extraídos de un estudio o base de datos.
-
- - external_db/: Subcarpeta opcional para incluir copias de bases de datos de anotación o secuencias de referencia que se utilicen en el script.
-
-Función en el Proyecto: Asegurar que los datos de entrada sean estáticos y estén versionados. Si cambiamos la lista de miRNAs, el cambio debe reflejarse en un commit claro.
+    1.2 Función en el Proyecto: Asegurar que los datos de entrada sean estáticos y estén versionados. Si cambiamos la lista de miRNAs, el cambio debe reflejarse en un commit claro.
 
 2. Directorio scripts/
 
 Aquí reside la lógica de nuestro proyecto, el código de bioinformática que realiza el trabajo.
 
-Contenido:
-
-predict_targets.py (o .R): Script principal encargado de interactuar con herramientas externas (como TargetScan) o APIs para obtener las dianas génicas para la lista de miRNAs.
-
-pathway_enrichment.R (o .py): Script secundario que toma las dianas predichas y realiza análisis de enriquecimiento de vías (KEGG, GO, etc.).
+  2.1 Contenido:
+  
+    - predict_targets.py (o .R): Script principal encargado de interactuar con herramientas externas (como TargetScan) o APIs para obtener las dianas génicas para la lista de miRNAs.
+    - pathway_enrichment.R (o .py): Script secundario que toma las dianas predichas y realiza análisis de enriquecimiento de vías (KEGG, GO, etc.).
 
 Documentación interna: El archivo scripts/README.md (ver la documentación interna de esa carpeta) explica las convenciones de nomenclatura y la función de cada archivo de código.
 
