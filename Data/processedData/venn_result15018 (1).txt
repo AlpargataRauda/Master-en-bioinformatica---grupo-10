@@ -182,7 +182,7 @@ miR-106b-5p.txt miR-144-3p.txt
 	FAT4
 	SCN3A
 	VLDLR		
-        SLAIN2
+    SLAIN2
 	SMAD1
 	PKNOX1
 	ZNF800
@@ -266,7 +266,7 @@ miR-106b-5p.txt miR-144-3p.txt
 	GABRA1
 	CCNG2
 	PLCB1
-        ITPRIPL2
+    ITPRIPL2
 	FAM8A1
 	ZFAND4
 	GJA1
@@ -331,7 +331,7 @@ miR-106b-5p.txt miR-144-3p.txt
 	POLR3G
 	KBTBD8
 	GXYLT1
-        WEE1
+    WEE1
 	RARB
 	ZNF532
 	CNOT4
@@ -1409,7 +1409,8 @@ miR-144-3p.txt
  	MAP7D1
  	ZNRF2
  	GJB7
- 	JAK2 	EPB41L2
+ 	JAK2 	
+	EPB41L2
  	CHD6
  	UBR3
  	C8orf44-SGK3
