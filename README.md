@@ -8,7 +8,7 @@ Los microRNAs son pequeños RNAs no codificantes que regulan la expresión géni
 
 El propósito de este proyecto es:
 
-1. Identificar las dianas génicas putativas (putative targets) de un conjunto de miRNAs previamente seleccionados.
+1. Identificar las dianas génicas (putative targets) de un conjunto de miRNAs previamente seleccionados.
 2. Realizar un análisis de enriquecimiento funcional (e.g., vías de señalización) para entender los mecanismos biológicos afectados por esta regulación.
 3. Demostrar el uso de Git y GitHub para el desarrollo colaborativo.
 
@@ -57,17 +57,15 @@ Documentación interna: El archivo scripts/README.md (ver la documentación inte
 
 Función en el Proyecto: Garantizar la reproducibilidad. Al ejecutar estos scripts con los datos de /data, siempre se deberían obtener los mismos resultados.
 
-3. Directorio results/
+**3. Directorio results**/
 
 Este directorio almacena todos los productos finales generados por los scripts en /scripts.
 
-Contenido:
+  3.1 Contenido:
 
-targets_predichos.tsv: Tabla con las dianas génicas y sus puntuaciones de predicción.
-
-pathways_enriquecidos.csv: Tabla con las vías de señalización que resultaron estadísticamente significativas.
-
-graficos/: Subcarpeta que contiene visualizaciones clave, como diagramas de barras de vías o heatmaps de resultados.
+  - targets_predichos.tsv: Tabla con las dianas génicas y sus puntuaciones de predicción.
+  - pathways_enriquecidos.csv: Tabla con las vías de señalización que resultaron estadísticamente significativas.
+ -  graficos/: Subcarpeta que contiene visualizaciones clave, como diagramas de barras de vías o heatmaps de resultados.
 
 Función en el Proyecto: Ser el punto de entrega y revisión de los datos analizados.
 
@@ -75,7 +73,7 @@ Función en el Proyecto: Ser el punto de entrega y revisión de los datos analiz
 
 Reservado para material de soporte y documentación no relacionada con el código.
 
-Contenido:
+ 4.1 Contenido:
 
 Guia_de_colaboracion.md: Documento que explica a los nuevos miembros del grupo cómo usar Git y GitHub en este proyecto (qué ramas usar, cómo hacer commits).
 
