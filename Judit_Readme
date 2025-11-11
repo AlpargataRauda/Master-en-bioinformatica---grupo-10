@@ -1,0 +1,9 @@
+CONTENIDO DEL REPOSITORIO
+Este repositorio contiene los genes diana correspondientes a los siguientes miRNA: ...
+Los resultados han sido obtenidos a partir de la base de datos Target Scan
+ESTRUCTURA DEL RESPOSITORIO
+[Datos en Crudo](./rawData/)
+[Datos Procesados](./processedData/)
+[Scripts](./Scripts/)
+[Resultados](./Results/)
+¿CÓMO CONTRIBUIR A ESTE REPOSITORIO?
