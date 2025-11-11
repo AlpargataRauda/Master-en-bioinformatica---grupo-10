@@ -1,3 +1,4 @@
 Se ha cerado el directorio Jesús, dentro de él se ha creado el directorio MiRNA y dentro de de este mismo se han creado 4 archios cada uno almacenan las dianas de lo miRNA obtenidas en TargetScan: 
 hsa-miR-33-5p, hsa-miR-144-3p,hsa-miR-758-3p y hsa-miR-106b-5p
 Después dentro del directorio Jesús se ha creado el directorio Dianas-comunes en la cual se ha subido imagen de un diagrama de Venn de estas dianas y un txt con los genes comunes que se han obtenido para los 4 MiRNA
+También se creo el directorio llamado genes comunes donde aparecen los genes comunes junto con su función y el directorio rutas de señalización donde aparecen imagenes obtenidas en Gene codis que muestran las rutas de señalización encontradas más imporantes
