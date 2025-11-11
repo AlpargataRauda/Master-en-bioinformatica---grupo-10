@@ -3,7 +3,7 @@
 ## CONTENIDO DEL REPOSITORIO
 Este repositorio contiene una librería de miRNA con sus genes diana. 
 Los resultados han sido obtenidos a partir de las base de datos Target Scan y miRDB. 
-Han sido procesados mediante un diagrama de Venn  
+*Han sido procesados mediante un diagrama de Venn*  
 
 ## ESTRUCTURA DEL RESPOSITORIO
 [Datos](./Data/)
