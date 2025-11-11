@@ -1,8 +1,8 @@
-🎯 Proyecto de Bioinformática Colaborativa: Análisis de Dianas de microRNA
+**Proyecto de Bioinformática Colaborativa: Análisis de Dianas de microRNA**
 
 Este repositorio aloja el trabajo colaborativo del grupo 10 para la asignatura de Bioinformática, centrado en el control de versiones y la aplicación de análisis de dianas de microRNAs (miRNAs).
 
-🚀 Propósito y Objetivos
+Propósito y Objetivos
 
 Los microRNAs son pequeños RNAs no codificantes que regulan la expresión génica post-transcripcionalmente al unirse a mRNAs diana.
 
