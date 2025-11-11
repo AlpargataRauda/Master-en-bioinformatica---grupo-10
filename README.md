@@ -16,6 +16,6 @@ _Los resultados han sido obtenidos a partir de las base de datos Target Scan y m
 * Jose Maria Sevilla Avendaño 
 * Jose Antonio Celada Guerrero 
 * Judit Del Valle Molina 
-* Jesus Javier Amat Pamies 
+* Jesús Javier Amat Pamies 
 * Fatima
  
