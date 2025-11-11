@@ -12,7 +12,7 @@ Esta librería sirve como punto de partida para análisis funcionales, validaci�
 * [Scripts](./Scripts/)
 * [Resultados](./Results/)
 
-## PARTICIPANTES EN EL REPOSITORIO
+## COLABORADORES DEL REPOSITORIO
 * Jose Maria Sevilla Avendaño 
 * Jose Antonio Celada Guerrero 
 * Judit Del Valle Molina 
