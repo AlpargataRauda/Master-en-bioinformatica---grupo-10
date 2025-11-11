@@ -7,8 +7,8 @@ _Los resultados han sido obtenidos a partir de las base de datos Target Scan y m
 
 ## ESTRUCTURA DEL RESPOSITORIO
 * [Datos](./Data/)
-* [Datos en Crudo](./Data/rawData/)
-* [Datos Procesados](./Data/processedData/)
+** [Datos en Crudo](./Data/rawData/)
+** [Datos Procesados](./Data/processedData/)
 * [Scripts](./Scripts/)
 * [Resultados](./Results/)
 
