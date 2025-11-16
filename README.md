@@ -31,7 +31,7 @@ El proyecto está organizado según las etapas de un análisis genómico, y cada
 * Jose Antonio Celada Guerrero 
 * Judit Del Valle Molina 
 * Jesús Javier Amat Pamies 
-* Fatima
+* Fatima Goiri Presmanes
 
 ## Licencia del Proyecto
 Este proyecto está distribuido bajo la MIT License.
