@@ -9,7 +9,7 @@ Los datos se han procesado y comparado mediante un diagrama de Venn, con el obje
 Esta librería sirve como punto de partida para análisis funcionales, validación experimental o modelado de redes de regulación génica basadas en miRNAs.
 
 ## ESTRUCTURA DEL RESPOSITORIO
-* [Data](./Data/): aquí podrás encontrar los datos de secuenciación, tanto los [rawData](./Data/rawData/) como los [processedData](./Data/processedData/).
+* [Data](./Data/): aquí podrás encontrar los datos de secuenciación, tanto los [rawData](./Data/rawData/) metadatos iniciales en formato.xlsx como los [processedData](./Data/processedData/) lecturas limpias intermedias y las tablas de datos procesados (.txt y gráficos .png.
 * [Scripts](./Scripts/): contiene todos los scripts (Bash, Python, R) que ejecutan los pasos del análisis, como qc_pipeline.sh (Control de Calidad) y align_reads.py (Script de alineamiento).
 * [Results](./Results/): salidas de cada etapa: tablas, gráficos y archivos binarios. Contiene QC_Reports/, Aligned/, VCF_Files/, y las subcarpetas graphics/, analyses/ y summary/.
 * [Docs](./Docs/): documentación extra, protocolos de laboratorio o guías de instalación. Contiene Protocolo_de_Alineamiento.md y Guia_de_Dependencias.md.
