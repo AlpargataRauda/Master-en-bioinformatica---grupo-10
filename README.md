@@ -1,6 +1,7 @@
-# Instrucciones del repositorio Github
+## Proyecto de Bioinformática: Análisis de Secuencias de ADN
+Este repositorio es el espacio de trabajo del grupo 10 para el análisis de datos de secuenciación de ADN (DNA-Seq). La idea es simular un flujo de trabajo real, desde la limpieza de datos hasta la anotación de variantes, usando las buenas prácticas de Git y GitHub.
 
-## CONTENIDO DEL REPOSITORIO
+## Contenido del Repositorio
 Este repositorio contiene una librería de microARNs (miRNAs) junto con sus genes diana asociados.
 Los resultados han sido obtenidos a partir de las bases de datos [TargetScan](https://www.targetscan.org/) y [miRDB](https://mirdb.org/), ambas reconocidas por su fiabilidad en la predicción de interacciones miRNA–gen.
 
@@ -9,8 +10,21 @@ Esta librería sirve como punto de partida para análisis funcionales, validaci�
 
 ## ESTRUCTURA DEL RESPOSITORIO
 * [Datos](./Data/): aquí podrás encontrar tanto los [Datos en Crudo](./Data/rawData/) como los [Datos Procesados](./Data/processedData/)
-* [Scripts](./Scripts/)
-* [Resultados](./Results/)
+* [Scripts](./Scripts/): contiene todos los scripts (Bash, Python, R) que ejecutan los pasos del análisis, como qc_pipeline.sh (Control de Calidad) y align_reads.py (Script de alineamiento).
+* [Resultados](./Results/): las salidas de cada etapa: tablas, gráficos y archivos binarios. Es donde el equipo revisará los avances. Contiene QC_Reports/, Aligned/, y VCF_Files/.
+* Docs/: Documentación extra, como protocolos de laboratorio o guías de instalación. Contiene Protocolo_de_Alineamiento.md y Guia_de_Dependencias.md.
+  
+## Propósito del Proyecto
+
+El objetivo es analizar los datos de secuenciación, asegurando la trazabilidad completa de los cambios mediante el control de versiones.
+
+## Pipeline de Análisis
+El proyecto está organizado según las etapas de un análisis genómico, y cada etapa usa herramientas específicas (simuladas en nuestros scripts):
+
+* Control de Calidad (QC): Utilizamos la herramienta FastQC (simulada) para generar los reportes de calidad tanto antes como después del filtrado.
+* Pre-procesamiento: Esta etapa incluye el Trimming de adaptadores para obtener archivos FASTQ limpios, listos para alinear.
+  Alineamiento: Empleamos BWA-MEM para generar archivos BAM o SAM alineados, los cuales se encuentran dentro de Results/Aligned/.
+* Anotación/Varianza: Usamos GATK para la llamada de variantes y la generación de archivos VCF con las variantes genéticas identificadas.
 
 ## COLABORADORES DEL REPOSITORIO
 * Jose Maria Sevilla Avendaño 
@@ -18,4 +32,6 @@ Esta librería sirve como punto de partida para análisis funcionales, validaci�
 * Judit Del Valle Molina 
 * Jesús Javier Amat Pamies 
 * Fatima
- 
+
+## Licencia del Proyecto
+Este proyecto está distribuido bajo la MIT License.
