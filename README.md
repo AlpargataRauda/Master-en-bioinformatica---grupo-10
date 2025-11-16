@@ -1,5 +1,5 @@
 ## Proyecto de Bioinformática: Análisis de Secuencias de ADN
-Este repositorio es el espacio de trabajo del grupo 10 para el análisis de datos de secuenciación de ADN (DNA-Seq). La idea es simular un flujo de trabajo real, desde la limpieza de datos hasta la anotación de variantes, usando las buenas prácticas de Git y GitHub.
+Este repositorio es el espacio de trabajo del __grupo 10__ para el análisis de datos de secuenciación de ADN (DNA-Seq). La idea es simular un flujo de trabajo real, desde la limpieza de datos hasta la anotación de variantes, usando las buenas prácticas de Git y GitHub.
 
 ## Contenido del Repositorio
 Este repositorio contiene una librería de microARNs (miRNAs) junto con sus genes diana asociados.
