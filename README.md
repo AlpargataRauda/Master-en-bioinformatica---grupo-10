@@ -11,7 +11,7 @@ Esta librería sirve como punto de partida para análisis funcionales, validaci�
 ## ESTRUCTURA DEL RESPOSITORIO
 * [Data](./Data/): aquí podrás encontrar los datos de secuenciación, tanto los [rawData](./Data/rawData/) metadatos iniciales en formato.xlsx como los [processedData](./Data/processedData/) lecturas limpias intermedias y las tablas de datos procesados (.txt y gráficos .png.
 * [Scripts](./Scripts/): contiene todos los scripts (Bash, Python, R) que ejecutan los pasos del análisis, como qc_pipeline.sh (Control de Calidad) y align_reads.py (Script de alineamiento).
-* [Results](./Results/): salidas de cada etapa: tablas, gráficos y archivos binarios. Contiene QC_Reports/, Aligned/, VCF_Files/, y las subcarpetas graphics/, analyses/ y summary/.
+* [Results](./Results/): salidas de cada etapa: tablas, gráficos y archivos binarios en los , y las subcarpetas graphics/, analyses/ y summary/ asi como QC_Reports, Aligned y VCF_Files.
 * [Docs](./Docs/): documentación extra, protocolos de laboratorio o guías de instalación. Contiene Protocolo_de_Alineamiento.md y Guia_de_Dependencias.md.
   
 ## Propósito del Proyecto
