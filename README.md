@@ -10,10 +10,10 @@ Este repositorio integra dos componentes principales:
   2. Librería de Referencia de miRNAs: Una colección de genes diana asociados a microARNs, obtenidos a partir de las bases de datos [TargetScan](https://www.targetscan.org/) y [miRDB](https://mirdb.org/), ambas reconocidas por su fiabilidad en la predicción de interacciones miRNA–gen. Estos datos se han procesado mediante un diagrama de Venn para identificar genes diana comunes y aumentar la precisión, sirviendo como base para la interpretación biológica de nuestros resultados de secuenciación.
 
 ## Estrucutra del Respositorio
-* [Data](./Data/): aquí podrás encontra los [rawData](./Data/rawData/) que contienen las lecturas de secuenciación crudas (.fastq.gz) y metadatos iniciales de las muestras (en formato .xlsx) asi como los [processedData](./Data/processedData/) contiene las lecturas limpias intermedias,tablas de datos procesado.(.txt) y gráficos de control (.png).
-* [Scripts](./Scripts/):: contiene el código ejecutable para cada etapa del pipeline., incluyendo qc_pipeline.sh (control de Calidad) y align_reads.py (script de alineamiento).
-* [Results](./Results/):contiene todas las salidas generadas por los scripts [graphics](./Results/graphics/), [analyses](./Results/analyses/), [summary](./Results/summary/) asi como archivos clave qc_reports, aligned y vcf_Files.
-* [Docs](./Docs/): documentación, protocolos y guías de instalación. Contiene protocolo_de_Alineamiento.md y Guia_de_Dependencias.md.
+* [Data](./Data/): aquí podrás encontra los [rawData](./Data/rawData/) que contienen las lecturas de secuenciación crudas (_.fastq.gz_) y metadatos iniciales de las muestras (en formato _.xlsx_) asi como los [processedData](./Data/processedData/) contiene las lecturas limpias intermedias,tablas de datos procesado.(_.txt_) y gráficos de control (_.png_).
+* [Scripts](./Scripts/):: contiene el código ejecutable para cada etapa del pipeline., incluyendo _qc_pipeline.sh_ (control de Calidad) y _align_reads.py_ (script de alineamiento).
+* [Results](./Results/):contiene todas las salidas generadas por los scripts [graphics](./Results/graphics/), [analyses](./Results/analyses/), [summary](./Results/summary/) asi como archivos clave _qc_reports_, _aligned_ y _vcf_Files_.
+* [Docs](./Docs/): documentación, protocolos y guías de instalación. Contiene _protocolo_de_Alineamiento.md_ y _Guia_de_Dependencias.md_.
 
 ## Pipeline de Análisis
 El proyecto está organizado según las etapas de un análisis genómico, y cada etapa usa herramientas específicas (simuladas en nuestros scripts):
