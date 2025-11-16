@@ -12,7 +12,7 @@ Esta librería sirve como punto de partida para análisis funcionales, validaci�
 * [Datos](./Data/): aquí podrás encontrar tanto los [Datos en Crudo](./Data/rawData/) como los [Datos Procesados](./Data/processedData/)
 * [Scripts](./Scripts/): contiene todos los scripts (Bash, Python, R) que ejecutan los pasos del análisis, como qc_pipeline.sh (Control de Calidad) y align_reads.py (Script de alineamiento).
 * [Resultados](./Results/): las salidas de cada etapa: tablas, gráficos y archivos binarios. Es donde el equipo revisará los avances. Contiene QC_Reports/, Aligned/, y VCF_Files/.
-* Docs/: Documentación extra, como protocolos de laboratorio o guías de instalación. Contiene Protocolo_de_Alineamiento.md y Guia_de_Dependencias.md.
+* [Docs](./Docs/): Documentación extra, como protocolos de laboratorio o guías de instalación. Contiene Protocolo_de_Alineamiento.md y Guia_de_Dependencias.md.
   
 ## Propósito del Proyecto
 
