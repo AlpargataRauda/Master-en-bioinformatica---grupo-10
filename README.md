@@ -1,30 +1,27 @@
-## Proyecto de Bioinformática: Análisis de Secuencias de ADN
-Este repositorio es el espacio de trabajo del __grupo 10__ para el análisis de datos de secuenciación de ADN (DNA-Seq). La idea es simular un flujo de trabajo real, desde la limpieza de datos hasta la anotación de variantes, usando las buenas prácticas de Git y GitHub.
+## Proyecto de Bioinformática: Análisis de Expresión Génica (RNA-Seq)
+Este repositorio es el espacio de trabajo del grupo 10 para la simulación de un análisis de secuenciación de ARN (RNA-Seq). La idea es aplicar un flujo de trabajo real, utilizando las buenas prácticas de Git y GitHub para la colaboración.
+
+## Propósito del Proyecto
+El objetivo es procesar las secuencias de ARN para asegurar la trazabilidad completa de los cambios mediante el control de versiones, y utilizar los datos de expresión obtenidos para validar dianas de microARNs.
 
 ## Contenido del Repositorio
-Este repositorio contiene una librería de microARNs (miRNAs) junto con sus genes diana asociados.
-Los resultados han sido obtenidos a partir de las bases de datos [TargetScan](https://www.targetscan.org/) y [miRDB](https://mirdb.org/), ambas reconocidas por su fiabilidad en la predicción de interacciones miRNA–gen.
+Este repositorio integra dos componentes principales:
+  1. Pipeline de RNA-Seq: Scripts y datos para procesar lecturas de secuenciación.
+  2. Librería de Referencia de miRNAs: Una colección de genes diana asociados a microARNs, obtenidos a partir de las bases de datos [TargetScan](https://www.targetscan.org/) y [miRDB](https://mirdb.org/), ambas reconocidas por su fiabilidad en la predicción de interacciones miRNA–gen. Estos datos se han procesado mediante un diagrama de Venn para identificar genes diana comunes y aumentar la precisión, sirviendo como base para la interpretación biológica de nuestros resultados de secuenciación.
 
-Los datos se han procesado y comparado mediante un diagrama de Venn, con el objetivo de identificar los genes diana comunes entre ambas plataformas y aumentar la precisión de las predicciones.
-Esta librería sirve como punto de partida para análisis funcionales, validación experimental o modelado de redes de regulación génica basadas en miRNAs.
-
-## ESTRUCTURA DEL RESPOSITORIO
-* [Data](./Data/): aquí podrás encontrar los datos de secuenciación, tanto los [rawData](./Data/rawData/) metadatos iniciales en formato.xlsx como los [processedData](./Data/processedData/) lecturas limpias intermedias y las tablas de datos procesados (.txt y gráficos .png.
-* [Scripts](./Scripts/): contiene todos los scripts (Bash, Python, R) que ejecutan los pasos del análisis, como qc_pipeline.sh (Control de Calidad) y align_reads.py (Script de alineamiento).
-* [Results](./Results/): salidas de cada etapa [graphics](./Results/graphics/), [analyses](./Results/analyses/), [summary](./Results/summary/) asi como QC_Reports, Aligned y VCF_Files.
-* [Docs](./Docs/): documentación, protocolos y guías de instalación. Contiene Protocolo_de_Alineamiento.md y Guia_de_Dependencias.md.
-  
-## Propósito del Proyecto
-
-El objetivo es analizar los datos de secuenciación, asegurando la trazabilidad completa de los cambios mediante el control de versiones.
+## Estrucutra del Respositorio
+* [Data](./Data/): aquí podrás encontra los [rawData](./Data/rawData/) que contienen las lecturas de secuenciación crudas (.fastq.gz) y metadatos iniciales de las muestras (en formato .xlsx) asi como los [processedData](./Data/processedData/) contiene las lecturas limpias intermedias,tablas de datos procesado.(.txt) y gráficos de control (.png).
+* [Scripts](./Scripts/):: contiene el código ejecutable para cada etapa del pipeline., incluyendo qc_pipeline.sh (control de Calidad) y align_reads.py (script de alineamiento).
+* [Results](./Results/):contiene todas las salidas generadas por los scripts [graphics](./Results/graphics/), [analyses](./Results/analyses/), [summary](./Results/summary/) asi como archivos clave qc_reports, aligned y vcf_Files.
+* [Docs](./Docs/): documentación, protocolos y guías de instalación. Contiene protocolo_de_Alineamiento.md y Guia_de_Dependencias.md.
 
 ## Pipeline de Análisis
 El proyecto está organizado según las etapas de un análisis genómico, y cada etapa usa herramientas específicas (simuladas en nuestros scripts):
 
-* Control de Calidad (QC): Utilizamos la herramienta FastQC (simulada) para generar los reportes de calidad tanto antes como después del filtrado.
-* Pre-procesamiento: Esta etapa incluye el Trimming de adaptadores para obtener archivos FASTQ limpios, listos para alinear.
-  Alineamiento: Empleamos BWA-MEM para generar archivos BAM o SAM alineados, los cuales se encuentran dentro de Results/Aligned/.
-* Anotación/Varianza: Usamos GATK para la llamada de variantes y la generación de archivos VCF con las variantes genéticas identificadas.
+* __Control de Calidad (QC):__ utilizamos la herramienta FastQC (simulada) para generar los reportes de calidad tanto antes como después del filtrado.
+* __Pre-procesamiento:__ esta etapa incluye el Trimming de adaptadores para obtener archivos FASTQ limpios, listos para alinear.
+* __Alineamiento:__ empleamos herramientas como STAR o HISAT2 (simuladas) para mapear las lecturas contra un genoma de referencia, generando archivos BAM alineados.
+* __Análisis de Expresión Diferencial:__ la tabla de conteos es procesada para identificar los genes regulados que serán la base para la posterior validación de dianas de miRNA.
 
 ## COLABORADORES DEL REPOSITORIO
 * Jose Maria Sevilla Avendaño 
