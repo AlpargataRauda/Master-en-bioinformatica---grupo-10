@@ -1,4 +1,4 @@
-### Dianas comunes de los 5 miRNA estudiados:
+### Dianas comunes de los 5 miRNA estudiados en la base de datos RDB:
 
 ZBTB20
 RORA
