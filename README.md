@@ -8,15 +8,15 @@ Este repositorio es el espacio de trabajo del __grupo 10__ para la simulación d
   
 ## Contenido del Repositorio
 Este repositorio integra dos componentes principales:
-  1. __Pipeline de RNA-Seq:__ Scripts y datos para procesar lecturas de secuenciación.
-  2. __Librería de Referencia de miRNAs:__ Una colección de genes diana asociados a microARNs, obtenidos a partir de las bases de datos [TargetScan](https://www.targetscan.org/) y [miRDB](https://mirdb.org/), ambas reconocidas por su fiabilidad en la predicción de interacciones miRNA–gen. Estos datos se han procesado mediante un diagrama de Venn para identificar genes diana comunes y aumentar la precisión, sirviendo como base para la interpretación biológica de nuestros resultados de secuenciación.
-  3. __Análisis Funcional:__ Scripts y librerías de referencia (TargetScan, miRDB, Gene Ontology) para interpretar biológicamente los resultados de expresión.
+  1. __Pipeline de RNA-Seq:__ scripts y datos para procesar lecturas de secuenciación.
+  2. __Librería de Referencia de miRNAs:__ colección de genes diana asociados a microARNs, obtenidos a partir de las bases de datos [TargetScan](https://www.targetscan.org/) y [miRDB](https://mirdb.org/), ambas reconocidas por su fiabilidad en la predicción de interacciones miRNA–gen. Estos datos se han procesado mediante un diagrama de Venn para identificar genes diana comunes y aumentar la precisión, sirviendo como base para la interpretación biológica de nuestros resultados de secuenciación.
+  3. __Análisis Funcional:__ scripts y librerías de referencia (TargetScan, miRDB, Gene Ontology) para interpretar biológicamente los resultados de expresión.
 
 ## Estrucutra del Respositorio
-* [Data](./Data/): aquí podrás encontra los [rawData](./Data/rawData/) que contienen las lecturas de secuenciación crudas (_.fastq.gz_) y metadatos(en formato _.xlsx_) asi como los [processedData](./Data/processedData/) que contiene las lecturas intermedias y las tablas de datos procesado.(_.txt_) y gráficos de control (_.png_).
+* [Data](./Data/): aquí se encuentra [rawData](./Data/rawData/) que contiene las lecturas de secuenciación crudas (_.fastq.gz_) y metadatos (en formato _.xlsx_) asi como [processedData](./Data/processedData/) que contiene las lecturas intermedias y las tablas de datos procesado.(_.txt_) y gráficos de control (_.png_).
 * [Scripts](./Scripts/):: contiene el código ejecutable para cada etapa del pipeline., incluyendo _qc_pipeline.sh_ (control de calidad),  _align_reads.py_ (script de alineamiento) y _pathway_analysis.R_ (script de Análisis Funcional y Rutas).
 * [Results](./Results/):contiene todas las salidas generadas por los scripts [graphics](./Results/graphics/), [analyses](./Results/analyses/), [summary](./Results/summary/) asi como archivos clave _qc_reports_, _aligned_ y _vcf_Files_.
-* [Docs](./Docs/): documentación, protocolos y guías de instalación. Contiene _protocolo_de_Alineamiento.md_ y _Guia_de_Dependencias.md_.
+* [Docs](./Docs/): documentación (protocolos y guías de instalación), _protocolo_de_Alineamiento.md_ y _Guia_de_Dependencias.md_.
 
 ## Pipeline de Análisis
 El proyecto está organizado según las etapas de un análisis genómico, y cada etapa usa herramientas específicas (simuladas en nuestros scripts):
