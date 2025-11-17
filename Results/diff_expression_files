@@ -1,0 +1,25 @@
+Resultados del Análisis de Expresión Diferencial (RNA-Seq)
+
+Comparación: Tratamiento_vs_Control
+
+Herramienta: DESeq2 (simulado)
+
+gene_id: Símbolo del gen
+
+baseMean: Expresión media normalizada del gen en todas las muestras
+
+log2FoldChange: Cambio logarítmico. >0 = Upregulado (más expresión), <0 = Downregulated (menos expresión)
+
+pvalue: Valor p estadístico (raw)
+
+padj: Valor p ajustado (FDR). El más importante. (padj < 0.05 es el umbral de significancia)
+
+gene_id,baseMean,log2FoldChange,pvalue,padj
+MYC,1205.45,3.15,0.000012,0.0001
+TP53,850.22,-2.50,0.000030,0.0002
+EGFR,755.10,1.88,0.000150,0.0015
+CDKN1A,430.70,-2.10,0.000210,0.0030
+BRCA1,610.90,-1.05,0.004500,0.0450
+KRAS,1150.60,0.50,0.250000,0.3100
+GAPDH,25000.50,0.01,0.990000,0.9900
+ACTB,22000.10,-0.05,0.980000,0.9900
