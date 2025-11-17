@@ -1,5 +1,5 @@
 ## Proyecto de Bioinformática: Análisis de Dianas de miRNAs y Rutas de Señalización
-Este repositorio es el espacio de trabajo del __grupo 10__ para la simulación de un proyecto de bioinformática centrado en el análisis de dianas de microARNs (miRNAs) y la identificación de las rutas de señalización biológica que estas regulan. La idea es aplicar un flujo de trabajo real, desde el procesamiento de datos de expresión (_RNA-Seq_) hasta el análisis de enriquecimiento funcional (_pathway analysis_), utilizando las buenas prácticas de Git y GitHub para la colaboración.
+Este repositorio es el espacio de trabajo del __grupo 10__ para la simulación de un proyecto de bioinformática centrado en el análisis de dianas de microARNs (_miRNAs_) y la identificación de las rutas de señalización biológica que estas regulan. La idea es aplicar un flujo de trabajo real, desde el procesamiento de datos de expresión (_RNA-Seq_) hasta el análisis de enriquecimiento funcional (_pathway analysis_), utilizando las buenas prácticas de Git y GitHub para la colaboración.
 
 ## Propósito del Proyecto
   1. Procesar datos de RNA-Seq para identificar genes con expresión diferencial.
