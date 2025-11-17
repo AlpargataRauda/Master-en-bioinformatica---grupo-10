@@ -1,0 +1,2685 @@
+Names	total	elements
+TargetScan8.0__miR-106-5p.txt TargetScan8.0__miR-144-3p.txt TargetScan8.0__miR-33a-5p.txt TargetScan8.0__miR-33b-5p.txt TargetScan8.0__miR-758-3p.txt	5	 
+
+		 S C N 1 A  
+		 S N T B 2  
+		 K P N A 3  
+		 T S C 2 2 D 2  
+		 A B C A 1  
+TargetScan8.0__miR-106-5p.txt TargetScan8.0__miR-144-3p.txt TargetScan8.0__miR-33a-5p.txt TargetScan8.0__miR-33b-5p.txt	37	 
+
+		 S A L L 1  
+		 D E N N D 5 B  
+		 S Y N C R I P  
+		 U S P 3 2  
+		 Z C 3 H 1 2 C  
+		 C C D C 1 4 4 A  
+		 T A N C 2  
+		 P U R B  
+		 T E T 2  
+		 R O R A  
+		 T C F 4  
+		 R G M A  
+		 C R K  
+		 R G S 1 7  
+		 W D F Y 3  
+		 S H A N K 2  
+		 Y T H D F 3  
+		 P A N K 3  
+		 N U F I P 2  
+		 F R S 2  
+		 F A M 1 2 6 B  
+		 R O R B  
+		 U S P 4 6  
+		 C T D S P L 2  
+		 B C L 1 1 B  
+		 C P E B 3  
+		 S R G A P 1  
+		 N A A 3 0  
+		 F A M 2 2 2 B  
+		 C E L F 2  
+		 C R E B R F  
+		 P T G F R N  
+		 Q K I  
+		 U S P 6  
+		 U B N 2  
+		 P D E 3 B  
+		 R A B 3 0  
+TargetScan8.0__miR-106-5p.txt TargetScan8.0__miR-33a-5p.txt TargetScan8.0__miR-33b-5p.txt TargetScan8.0__miR-758-3p.txt	10	 
+
+		 D D X 5  
+		 G P R 3 7  
+		 D G K H  
+		 C A M K 2 N 1  
+		 N C O A 3  
+		 A S X L 2  
+		 Z F P M 2  
+		 G A L N T 1 0  
+		 E R C 1  
+		 S 1 P R 1  
+TargetScan8.0__miR-144-3p.txt TargetScan8.0__miR-33a-5p.txt TargetScan8.0__miR-33b-5p.txt TargetScan8.0__miR-758-3p.txt	4	 
+
+		 T M E M 6 5  
+		 B A C H 2  
+		 M E I S 2  
+		 S T R N  
+TargetScan8.0__miR-106-5p.txt TargetScan8.0__miR-33a-5p.txt TargetScan8.0__miR-33b-5p.txt	87	 
+
+		 C D K 6  
+		 K I F 1 B  
+		 N E U R O G 2  
+		 P L E K H A 8  
+		 P C D H A 1  
+		 H S P A 8  
+		 P I P 4 K 2 C  
+		 F G F 1 2  
+		 C R O T  
+		 P C D H A 1 3  
+		 M A P 3 K 1  
+		 S L C 6 A 5  
+		 K C N S 2  
+		 M A P 3 K 3  
+		 N P A T  
+		 S K I  
+		 S T X B P 5  
+		 S E P T 7  
+		 F A M 4 6 C  
+		 M O R F 4 L 1  
+		 H M G A 2  
+		 R L I M  
+		 B A G 2  
+		 S T Y X  
+		 T R P S 1  
+		 C S R N P 3  
+		 T B C E L  
+		 T R P M 3  
+		 P C D H A 1 2  
+		 S T 8 S I A 3  
+		 H A S 2  
+		 P P P 6 C  
+		 P C D H A 5  
+		 S T R B P  
+		 A B H D 2  
+		 P C D H A 3  
+		 S I K 1  
+		 D L G A P 2  
+		 A L X 4  
+		 A T X N 7 L 1  
+		 P C D H A 4  
+		 P C D H A 1 1  
+		 D C A F 8  
+		 P C D H A 1 0  
+		 U N K  
+		 P C D H A 6  
+		 P C D H A C 2  
+		 P F N 2  
+		 M Y T 1 L  
+		 T S P A N 9  
+		 K P N A 4  
+		 C 2 o r f 6 9  
+		 N R 4 A 2  
+		 P C D H A 2  
+		 P C D H A 9  
+		 S E M A 7 A  
+		 O N E C U T 3  
+		 E I F 5 A 2  
+		 L H X 6  
+		 S L C 2 4 A 4  
+		 C A D M 2  
+		 T B C 1 D 1 5  
+		 P C D H A 8  
+		 I Q S E C 2  
+		 S L I T R K 3  
+		 P C D H A C 1  
+		 S E T D 7  
+		 T R P C 4  
+		 U B R 5  
+		 K L H L 1 5  
+		 P C D H A 7  
+		 P L E K H A 3  
+		 T N R C 6 C  
+		 P D G F R A  
+		 D N A J C 1 5  
+		 M T F 1  
+		 R E E P 3  
+		 S M A D 7  
+		 T W I S T 1  
+		 R I M S 2  
+		 S N X 9  
+		 F Y N  
+		 N T N 1  
+		 S A M D 8  
+		 G I G Y F 1  
+		 R N F 1 2 8  
+		 E P H A 4  
+TargetScan8.0__miR-144-3p.txt TargetScan8.0__miR-33a-5p.txt TargetScan8.0__miR-33b-5p.txt	92	 G A B R B 2  
+		 Z F H X 4  
+		 R A S E F  
+		 T E S  
+		 F A M 1 7 9 B  
+		 K C N D 3  
+		 S O C S 5  
+		 O N E C U T 2  
+		 F S T  
+		 E S C O 1  
+		 P A P O L G  
+		 M A P K 6  
+		 F O X P 1  
+		 D P P 1 0  
+		 R P G R I P 1 L  
+		 M E I S 1  
+		 A D A M T S 3  
+		 E S R R G  
+		 A N K 3  
+		 S Y T 1 4  
+		 S E S T D 1  
+		 R A S A 1  
+		 P T B P 3  
+		 T M 9 S F 3  
+		 P I M 1  
+		 K I A A 1 0 2 4  
+		 R F X 3  
+		 Z C C H C 1 4  
+		 S T 1 8  
+		 S H 2 B 3  
+		 C H N 2  
+		 H M G C R  
+		 K M T 2 E  
+		 N O V A 1  
+		 D S T  
+		 K A T 6 B  
+		 P A L M 2 - A K A P 2  
+		 A D C Y A P 1  
+		 A K A P 2  
+		 F A M 8 4 A  
+		 N C O A 2  
+		 P C D H 1 8  
+		 C C D C 8 5 A  
+		 T H A P 1  
+		 A R I D 5 B  
+		 P J A 2  
+		 C T B P 2  
+		 E B F 1  
+		 M D M 4  
+		 N F I A  
+		 G R I K 2  
+		 C R E B Z F  
+		 P C D H 1 0  
+		 N C K A P 1  
+		 S C N 8 A  
+		 N A V 3  
+		 C P E B 2  
+		 A P P B P 2  
+		 T S H Z 2  
+		 S Y T 1 1  
+		 V C A N  
+		 C D K 8  
+		 T U L P 4  
+		 L A R P 4 B  
+		 R O B O 2  
+		 S M A R C A 5  
+		 P R K A A 1  
+		 P L D 5  
+		 Z N F 2 0 7  
+		 B L O C 1 S 5  
+		 G L C C I 1  
+		 P C D H 7  
+		 P P T C 7  
+		 L D L R A D 4  
+		 R O C K 1  
+		 P D E 7 A  
+		 P D E 4 D  
+		 N C O A 7  
+		 A T P 8 A 1  
+		 B R W D 3  
+		 H I P K 2  
+		 A T P 1 B 1  
+		 S E L T  
+		 S R E K 1  
+		 B T B D 3  
+		 A B I 2  
+		 T B C 1 D 1 2  
+		 T M E D 5  
+		 Z S W I M 6  
+		 Z N F 2 4  
+		 G R I D 2  
+		 K I A A 1 5 4 9 L  
+TargetScan8.0__miR-33a-5p.txt TargetScan8.0__miR-33b-5p.txt TargetScan8.0__miR-758-3p.txt	15	 M T D H  
+		 M M P 1 6  
+		 A C 0 1 2 2 1 5 . 1  
+		 T F C P 2 L 1  
+		 A D D 1  
+		 D C U N 1 D 1  
+		 S G I P 1  
+		 T M E M 5 9  
+		 C A M K 4  
+		 C P E B 4  
+		 U N C 5 D  
+		 D C U N 1 D 5  
+		 N D N F  
+		 C D H 6  
+		 R A S S F 8  
+TargetScan8.0__miR-106-5p.txt TargetScan8.0__miR-144-3p.txt TargetScan8.0__miR-758-3p.txt	17	 
+
+		 Z B T B 2 0  
+		 A T P 2 B 2  
+		 C 1 1 o r f 3 0  
+		 P K I A  
+		 I T G B 6  
+		 A D A M T S 5  
+		 Z B T B 7 A  
+		 U S P 3 1  
+		 Z N F 6 1 8  
+		 C F L 2  
+		 T E T 3  
+		 M B N L 3  
+		 C S N K 1 A 1  
+		 R B M 1 5 B  
+		 B H L H E 4 1  
+		 S O C S 7  
+		 S T 6 G A L N A C 3  
+TargetScan8.0__miR-33a-5p.txt TargetScan8.0__miR-33b-5p.txt	295	 
+		
+		 D U S P 6  
+		 L U C 7 L 3  
+		 Z N F 8 0 4 B  
+		 C D 3 0 2  
+		 C A C N A 1 D  
+		 K C T D 1  
+		 S M G 1  
+		 A L K B H 1  
+		 C 1 8 o r f 2 5  
+		 A N O 8  
+		 Z N F 3 2 4  
+		 E E F 1 A 1  
+		 R E R G  
+		 A C 0 0 7 4 0 5 . 2  
+		 P A Q R 3  
+		 R E C K  
+		 K M T 2 D  
+		 Z D H H C 3  
+		 N R X N 1  
+		 Y W H A H  
+		 S E M A 3 A  
+		 P P P 1 R 9 A  
+		 M A P 4 K 4  
+		 R F X 7  
+		 L P P R 4  
+		 M L X I P  
+		 G P R 1 3 5  
+		 C L G N  
+		 S D C 3  
+		 I M P A 2  
+		 C Y B 5 R 4  
+		 C L P X  
+		 R C A N 1  
+		 B M P 3  
+		 A B C B 1 1  
+		 G B X 2  
+		 T M E M 2 6 0  
+		 H C N 1  
+		 M D G A 2  
+		 S T 3 G A L 6  
+		 W N T 1 0 B  
+		 D C P 1 A  
+		 K C T D 1 6  
+		 A D R A 2 A  
+		 C S M D 1  
+		 N I P A L 4  
+		 N S F  
+		 S C I N  
+		 B A I 3  
+		 C A S C 3  
+		 E N 2  
+		 T R I M 6  
+		 S L C 1 7 A 6  
+		 E P C 2  
+		 S I M 2  
+		 D A C H 1  
+		 R N F 1 6 5  
+		 D D X 4 6  
+		 N A A L A D L 2  
+		 M L L T 3  
+		 M R P S 2 5  
+		 N P C 1  
+		 I S O C 2  
+		 T S H Z 1  
+		 M E T T L 9  
+		 P O F U T 2  
+		 S L C 2 5 A 2 5  
+		 M A P 3 K 7  
+		 C A L M L 4  
+		 K L F 7  
+		 D D X 3 X  
+		 A P 5 M 1  
+		 G A B R A 4  
+		 L R R C 4 C  
+		 S A T B 2  
+		 N D U F B 9  
+		 S N A I 2  
+		 G D N F  
+		 T B X 1 5  
+		 F B X O 3 4  
+		 H N R N P A 2 B 1  
+		 S N R K  
+		 R I M B P 2  
+		 C C N Y  
+		 D E S I 1  
+		 H O X C 1 3  
+		 A B R  
+		 V C L  
+		 U B A 2  
+		 K I A A 0 0 8 7  
+		 C H D 1  
+		 B E N D 6  
+		 S A M D 4 A  
+		 S R E B F 1  
+		 D K K 1  
+		 O X S R 1  
+		 P H F 1 2  
+		 A D G B  
+		 G P C P D 1  
+		 H N R N P A 3  
+		 S Y D E 2  
+		 K C N K 1  
+		 Z N F 2 8 1  
+		 K I A A 1 4 3 2  
+		 C D C 4 2 B P A  
+		 R P 1 1 - 3 1 5 D 1 6 . 2  
+		 A N K A R  
+		 M T H F D 2  
+		 C P T 1 A  
+		 S H I S A 5  
+		 A B H D 1 3  
+		 R N F 1 8 0  
+		 A G M A T  
+		 I R S 2  
+		 C E N D 1  
+		 N F I X  
+		 B T B D 2  
+		 C O L C A 1  
+		 D A B 2 I P  
+		 A L P K 3  
+		 P D I K 1 L  
+		 H A S 3  
+		 A L 3 5 4 9 9 3 . 1  
+		 E P H A 8  
+		 R N D 2  
+		 M Y P N  
+		 G R M 8  
+		 S L C 1 6 A 7  
+		 S E L 1 L 3  
+		 P D E 3 A  
+		 S T A U 2  
+		 T R A M 2  
+		 C D R 2 L  
+		 R M N D 5 A  
+		 N R I P 1  
+		 U N C X  
+		 R A P 2 A  
+		 P P L  
+		 T A R D B P  
+		 E I F 2 S 2  
+		 Z N F 4 9 6  
+		 A X L  
+		 P D Z D 8  
+		 L D H A  
+		 T T C 2 8  
+		 S I R T 6  
+		 S H I S A 7  
+		 I T G B L 1  
+		 R P 1 1 - 1 1 3 D 6 . 1 0  
+		 P I K 3 R 3  
+		 L I N 2 8 A  
+		 M T 1 A  
+		 W D R 4 7  
+		 C D Y L 2  
+		 E N C 1  
+		 R E E P 1  
+		 C N O T 2  
+		 K C N K 1 5 
+		 Z F P 3 6 L 1  
+		 E D N R B  
+		 S L C 3 0 A 4  
+		 C A M K 2 G  
+		 N U T F 2  
+		 U N C 7 9  
+		 N C O A 1  
+		 P I A S 4  
+		 G D I 2  
+		 R N F 1 1 5  
+		 H I P K 1  
+		 U B E 2 V 2  
+		 C R E B B P  
+		 P N M A 2  
+		 C S  
+		 P I M 3  
+		 P S M G 1  
+		 C A L N 1  
+		 T F D P 2  
+		 H U N K  
+		 F A M 1 2 0 A  
+		 A F F 3  
+		 S T T 3 B  
+		 L Y 7 5 - C D 3 0 2  
+		 M B O A T 2  
+		 S L C 1 2 A 5  
+		 H A D H B  
+		 A B C B 5  
+		 P S M E 3  
+		 A D O  
+		 C R T A M  
+		 C P S F 2  
+		 R B M 3 3  
+		 E H D 4  
+		 G A S 1  
+		 T M E M 2 0 0 B  
+		 F A M 1 6 0 A 1  
+		 N A A 1 5  
+		 H M X 3  
+		 N O M O 2  
+		 C N N M 1  
+		 T E R F 2  
+		 E V I 5  
+		 P C N X  
+		 P A P O L A  
+		 C C N Y L 1  
+		 C A C N A 1 E  
+		 T R A F 3  
+		 D E P T O R  
+		 C D K 1 6  
+		 F T O  
+		 F G F 1 4  
+		 S E T D 9  
+		 D N A J B 5  
+		 K I A A 1 2 1 1 L  
+		 A T P 8 B 1  
+		 A H C Y L 1  
+		 A D D 3  
+		 S C N 1 0 A  
+		 P D E 8 A  
+		 E B A G 9  
+		 C E R K  
+		 C S N K 1 D  
+		 S P A S T  
+		 P L E K H M 3  
+		 K I A A 2 0 2 6  
+		 C N T N 4  
+		 K C N C 3  
+		 S T S  
+		 M R S 2  
+		 R N F 1 9 B  
+		 S L C 3 5 E 1  
+		 H O X D 1 0  
+		 K C N J 1  
+		 T P M 3  
+		 R A B 4 1  
+		 Z M I Z 1  
+		 P D P N  
+		 N L G N 1  
+		 P L N  
+		 M A P K 8  
+		 M S R B 3  
+		 F A M 8 1 A  
+		 S U V 3 9 H 1  
+		 G R I N 3 A  
+		 H S 3 S T 4  
+		 T M E M 8 6 A  
+		 C 8 o r f 8 6  
+		 N O M O 1  
+		 C T T N B P 2  
+		 H E C W 1  
+		 G H R  
+		 S B N O 1  
+		 G S E 1  
+		 S P I N 1  
+		 S P P L 3  
+		 A N O 4  
+		 C A P Z B  
+		 S K P 1  
+		 L A M C 1  
+		 X B P 1  
+		 H M G N 1  
+		 M A C R O D 2  
+		 S L U 7  
+		 S H 3 K B P 1  
+		 R U N X 1 T 1  
+		 T T L L 7  
+		 M R P L 4 9  
+		 N F Y B  
+		 K I A A 0 9 0 7  
+		 Z B T B 4 6  
+		 G P R 8 8  
+		 B A C H 1  
+		 T I M M 9  
+		 A N K R D 4 4  
+		 S G C D  
+		 N H L H 2  
+		 P D P K 1  
+		 S E C 2 4 C  
+		 P A C S I N 1  
+		 T N S 4  
+		 K C N J 1 3  
+		 M C F D 2  
+		 S T 3 G A L 2  
+		 Z N F 3 8 5 B  
+		 R B P M S 2  
+		 A K A P 1 2  
+		 E G F L A M  
+		 L R R C 4  
+		 C A C N A 1 C  
+		 N A P 1 L 4  
+		 T M E D 7  
+		 P R I C K L E 2  
+		 E R B B 2 I P  
+		 D S C 3  
+		 L I N G O 1  
+		 T T B K 2  
+TargetScan8.0__miR-106-5p.txt TargetScan8.0__miR-144-3p.txt	187	 
+
+		 F A T 4  
+		 V L D L R  
+		 U H M K 1  
+		 P P P 4 R 1 L  
+		 S M A D 1  
+		 P K N O X 1  
+		 U N C 8 0  
+		 K D M 6 B  
+		 P A K 7  
+		 Z N F 8 0 0  
+		 A R I D 4 B  
+		 E I F 4 G 2  
+		 M A P 3 K 9  
+		 P T P R J  
+		 M E D 1 2 L  
+		 C A P N 7  
+		 B N C 2  
+		 S C N 2 A  
+		 A R H G E F 3  
+		 N F I B  
+		 W D F Y 2  
+		 F A M 6 0 A  
+		 N E T O 2  
+		 L P P R 5  
+		 M K L 2  
+		 R G M B  
+		 L Y S M D 3  
+		 V A N G L 1  
+		 R U N X 1  
+		 S A S H 1  
+		 C C N T 2  
+		 B B X  
+		 D Y R K 1 A  
+		 Z N F 1 4 8  
+		 A F F 4  
+		 W N K 3  
+		 D I P 2 C  
+		 P T P N 4  
+		 G A B B R 2  
+		 T P 5 3 I N P 2  
+		 L C O R  
+		 S L C 3 0 A 7  
+		 A J A P 1  
+		 R A P G E F 2  
+		 R R A G D  
+		 D A Z A P 2  
+		 Z N F 3 6 2  
+		 M A P 3 K 8  
+		 B I C D 2  
+		 B C L 2 L 1 1  
+		 M I E R 3  
+		 Z N F 3 6 7  
+		 G A B 1  
+		 K L F 3  
+		 A T X N 1 L  
+		 P B X 3  
+		 M A P K 1  
+		 B I C C 1  
+		 A N K R D 2 8  
+		 B Z W 1  
+		 M C F 2 L  
+		 I P O 7  
+		 N A N O S 1  
+		 C R E B 1  
+		 R B M 2 4  
+		 P U R A  
+		 P L A G 1  
+		 A C B D 5  
+		 A T X N 1  
+		 N O L 4  
+		 A N K R D 5 2  
+		 T E N M 1  
+		 S S X 2 I P  
+		 T M B I M 6  
+		 E 2 F 3  
+		 T A O K 1  
+		 E P H A 7  
+		 F A M 1 6 8 A  
+		 K P N A 2  
+		 T N K S 2  
+		 C 2 C D 2  
+		 D P Y S L 5  
+		 C C N G 2  
+		 E G F R  
+		 T R I M 7 1  
+		 F A T 3  
+		 Z F A N D 4  
+		 C 6 o r f 6 2  
+		 G J A 1  
+		 Z B T B 3 7  
+		 D S T Y K  
+		 D C B L D 2  
+		 A R A P 2  
+		 E T V 1  
+		 T G F B R 2  
+		 P R R X 1  
+		 P A F A H 1 B 1  
+		 E F C A B 1 4  
+		 S O C S 6  
+		 G I D 4  
+		 S L C 4 A 4  
+		 S I K 2  
+		 R A B 1 1 F I P 1  
+		 E L A V L 2  
+		 R E V 3 L  
+		 A R H G A P 2 6  
+		 P P P 3 R 1  
+		 B C L 6  
+		 H I V E P 3  
+		 F A M 1 9 9 X  
+		 S O S 1  
+		 K I A A 0 2 3 2  
+		 P H T F 2  
+		 S P O P L  
+		 A C S L 4  
+		 R O C K 2  
+		 O T U D 4  
+		 I N O 8 0 D  
+		 M A P 3 K 2  
+		 S H 3 P X D 2 A  
+		 N A C C 2  
+		 O T U D 3  
+		 S O B P  
+		 M T S S 1 L  
+		 F B X L 3  
+		 N E U R L 1 B  
+		 A P P  
+		 T M C C 1  
+		 K L F 1 2  
+		 P T H L H  
+		 A N K R D 5 0  
+		 T C F 2 1  
+		 F Z D 4  
+		 K L F 9  
+		 F N D C 3 A  
+		 T N F S F 1 1  
+		 P H F 6  
+		 T A L 1  
+		 P P P 2 R 2 A  
+		 Z N F 7 0 4  
+		 E F N B 2  
+		 R G L 1  
+		 G L T S C R 1 L  
+		 S T C 1  
+		 I T C H  
+		 W E E 1  
+		 F B X W 1 1  
+		 C U L 3  
+		 R A R B  
+		 Z N F 5 3 2  
+		 T N R C 6 A  
+		 P P A R G C 1 B  
+		 D Y R K 2  
+		 D D H D 1  
+		 T P 5 3 I N P 1  
+		 S E S N 3  
+		 Z B T B 1 8  
+		 T R I M 4 4  
+		 F O X F 1  
+		 S Y A P 1  
+		 T N R C 6 B  
+		 L M O 3  
+		 R A P 2 C  
+		 A G O 3  
+		 M Y C N  
+		 P T E N  
+		 C E P 1 7 0  
+		 F I G N  
+		 I K Z F 4  
+		 W H S C 1 L 1  
+		 D O K 6  
+		 L Z I C  
+		 A N K R D 1 2  
+		 S P R E D 1  
+		 S H I S A 6  
+		 A R L 4 C  
+		 R N F 3 8  
+		 T A N C 1  
+		 Z B T B 2 1  
+		 I T G B 8  
+		 A N K R D 1 7  
+		 E P H A 5  
+		 S A M D 1 2  
+		 S M A D 5  
+		 U S P 4 7  
+		 T S H Z 3  
+		 H E G 1  
+TargetScan8.0__miR-106-5p.txt TargetScan8.0__miR-758-3p.txt	35	 
+
+		 F A S T K  
+		 B A M B I  
+		 T C F 7 L 1  
+		 C E N P O  
+		 R Y B P  
+		 I L 6 S T  
+		 D N A J C 2 8  
+		 S L C 3 8 A 1  
+		 R B M S 2  
+		 E E A 1  
+		 R N F 1 5 0  
+		 R A B E P 1  
+		 C A C U L 1  
+		 E I F 5 B  
+		 M X D 1  
+		 H L F  
+		 J O S D 1  
+		 E R M P 1  
+		 H M G B 3  
+		 R E P S 2  
+		 G T D C 1  
+		 S Y N M  
+		 F R R S 1 L  
+		 F G D 1  
+		 P G P  
+		 Z F P 9 1  
+		 W A C  
+		 F A M 1 3 A  
+		 C S N K 1 G 1  
+		 G A D 2  
+		 P L X D C 2  
+		 T R I P 1 1  
+		 M A P 7  
+		 C 6 o r f 1 2 0  
+		 Z A D H 2  
+TargetScan8.0__miR-144-3p.txt TargetScan8.0__miR-758-3p.txt	29	 
+
+		 A N T X R 2  
+		 X Y L T 1  
+		 T C E B 1  
+		 S R S F 1 0  
+		 C D K 1 9  
+		 K D M 6 A  
+		 A D A M T S 1 7  
+		 A H C Y  
+		 A N G P T L 3  
+		 P D E 7 B  
+		 F L I 1  
+		 N P N T  
+		 C A D M 1  
+		 T F R C  
+		 H I P K 3  
+		 P U M 2  
+		 G L T S C R 1  
+		 F B N 1  
+		 S T R N 3  
+		 D A C T 3  
+		 H N R N P U  
+		 I D H 2  
+		 Z B T B 3 8  
+		 Z F H X 3  
+		 D U S P 1  
+		 G R I K 3  
+		 G D E 1  
+		 U S P 6 N L  
+		 S V 2 C  
+TargetScan8.0__miR-33a-5p.txt	1	ÿþj  
+TargetScan8.0__miR-33b-5p.txt	1	ÿþk  
+TargetScan8.0__miR-106-5p.txt	1008	 
+
+		 M P D Z  
+		 Z N F 2 0 2  
+		 S E M A 5 A  
+		 H A U S 8  
+		 C D C 3 7 L 1  
+		 F A M 1 7 7 A 1  
+		ÿþl  
+		 N E K 1 0  
+		 C C D C 5 0  
+		 A P 3 D 1  
+		 F S D 1 L  
+		 F B X O 1 0  
+		 C H D 2  
+		 S Y N E 1  
+		 C N N M 2  
+		 S Q S T M 1  
+		 G A N  
+		 T I P A R P  
+		 N K I R A S 1  
+		 S L C 9 A 2  
+		 P D P R  
+		 M A R C H 4  
+		 P R K A C B  
+		 A C I N 1  
+		 A T G 1 6 L 1  
+		 I T F G 1  
+		 M Y N N  
+		 E D A 2 R  
+		 P A L L D  
+		 S L C 4 A 7  
+		 C A S P 9  
+		 N H L R C 3  
+		 S L C 7 A 2  
+		 L A M P 5  
+		 A R H G E F 7  
+		 A K A P 1 3  
+		 M A S T L  
+		 H N 1  
+		 M K L N 1  
+		 R A B 8 B  
+		 P P P 6 R 3  
+		 G R H L 2  
+		 G I N M 1  
+		 G P R 6 3  
+		 G A T A D 2 B  
+		 S L A I N 2  
+		 G G C X  
+		 F C H O 2  
+		 T U S C 2  
+		 E R E G  
+		 C R Y 2  
+		 F O X J 2  
+		 H B P 1  
+		 Z B T B 9  
+		 C H R M 2  
+		 S T K 1 1  
+		 Z N F 2 3 6  
+		 F A M 8 3 F  
+		 C D 2 7 4  
+		 U T S 2 B  
+		 N K X 6 - 1  
+		 F N B P 4  
+		 M T E R F D 2  
+		 Z B T B 3 3  
+		 E P G N  
+		 F A M 1 8 9 A 1  
+		 T G F B 1 I 1  
+		 N K X 3 - 2  
+		 T E T 1  
+		 R N F 4  
+		 C 9 o r f 6 4  
+		 Z B T B 4 7  
+		 N A V 2  
+		 E L K 3  
+		 S G T B  
+		 T G O L N 2  
+		 B R M S 1 L  
+		 F R M D 4 A  
+		 P R R 1 6  
+		 Z N F 2  
+		 R B M 2 0  
+		 Z B T B 6  
+		 M A P R E 3  
+		 T N F R S F 2 1  
+		 C A P R I N 2  
+		 Y P E L 2  
+		 C C 2 D 1 A  
+		 R N D 3  
+		 M A R C H 1  
+		 Z S C A N 2 5  
+		 A K A P 1 1  
+		 A R L 4 A  
+		 T N S 1  
+		 C O L 4 A 3  
+		 P H F 1  
+		 M F A P 3 L  
+		 F B X O 2 1  
+		 V A S H 2  
+		 C 1 6 o r f 5 2  
+		 S L C 6 A 9  
+		 S A R 1 B  
+		 T M E M 2 4 5  
+		 S L C 3 9 A 6  
+		 T S K U  
+		 I C M T  
+		 S L C 2 A 4  
+		 R A P G E F L 1  
+		 B R D 4  
+		 E G L N 1  
+		 C A P N 1 5  
+		 D N A J C 1 6  
+		 R U N D C 1  
+		 G D A  
+		 P T C H D 1  
+		 G 3 B P 1  
+		 N C O R 1  
+		 E F N B 1  
+		 R B 1 C C 1  
+		 E N P P 5  
+		 P D S 5 A  
+		 F A M 8 4 B  
+		 S R G A P 3  
+		 C O Q 2  
+		 S I P A 1 L 3  
+		 F N D C 3 B  
+		 Z N F 7 4  
+		 L I N 5 2  
+		 R A S S F 3  
+		 M S M O 1  
+		 T W F 1  
+		 C N N 1  
+		 Z N F 5 1 2 B  
+		 A N K F Y 1  
+		 P F K P  
+		 S T 3 G A L 1  
+		 P P P 2 C A  
+		 A R I D 4 A  
+		 I P M K  
+		 N R 2 C 2  
+		 H A B P 4  
+		 S L C 3 9 A 9  
+		 S R I  
+		 S T 6 G A L N A C 6  
+		 A A K 1  
+		 S K O R 1  
+		 I R F 2 B P 2  
+		 T T P A L  
+		 P A F 1  
+		 M A R C H 6  
+		 R N F 2  
+		 O R M D L 3  
+		 T T C 3 9 C  
+		 S C A M P 2  
+		 S E P T 2  
+		 I S M 2  
+		 R A S L 1 1 B  
+		 C C D C 7 1 L  
+		 O T U D 1  
+		 C E P 1 2 8  
+		 V A V 2  
+		 L R P 1 B  
+		 D M R T A 2  
+		 A L 1 6 3 6 3 6 . 6  
+		 T S R 1  
+		 A N K I B 1  
+		 F M N L 3  
+		 C C S E R 2  
+		 D Y N C 1 L I 2  
+		 C 1 6 o r f 7 0  
+		 Y O D 1  
+		 I L 2 5  
+		 I R F 1  
+		 A K T 3  
+		 R P A 2  
+		 C 7 o r f 4 3  
+		 C R Y B G 3  
+		 C D C A 7  
+		 A S X L 3  
+		 S L C 3 0 A 3  
+		 L 3 M B T L 3  
+		 T O L L I P  
+		 K I A A 2 0 1 8  
+		 C H I C 1  
+		 C H A F 1 A  
+		 A B I 1  
+		 A K A P 9  
+		 I P O 9  
+		 F G D 5  
+		 G P R 3 7 L 1  
+		 M A P K 1 I P 1 L  
+		 P R E X 1  
+		 A N K R D 3 3 B  
+		 A C A P 2  
+		 U S P 2 8  
+		 H O X A 2  
+		 C 1 o r f 6 3  
+		 F O X J 3  
+		 S C A M P 5  
+		 Z D H H C 1  
+		 T X N I P  
+		 D I E X F  
+		 M E T A P 1  
+		 T I M P 2  
+		 S T K 3 8  
+		 P P P 1 R 1 5 B  
+		 C R I P T  
+		 S C N 2 B  
+		 D U S P 8  
+		 U G D H  
+		 N R 4 A 3  
+		 T B C 1 D 8 B  
+		 E Z H 1  
+		 P S M B 5  
+		 Z B T B 4 1  
+		 S L C 5 A 3  
+		 R A S D 1  
+		 S L C 1 6 A 9  
+		 D G K Q  
+		 A G F G 2  
+		 N E U R O G 1  
+		 U B A S H 3 B  
+		 K C N J 1 0  
+		 M I D N  
+		 S L C 4 0 A 1  
+		 S T A T 3  
+		 K L F 1 0  
+		 E S R 1  
+		 H I A T 1  
+		 C N O T 6 L  
+		 E L K 4  
+		 N U P 3 5  
+		 U P F 3 A  
+		 C E R C A M  
+		 G P R 1 3 7 C  
+		 C L U H  
+		 A R L 1  
+		 G U C Y 1 A 3  
+		 A R H G E F 1 8  
+		 C A M K 2 N 2  
+		 C O L 4 A 1  
+		 S I R P A  
+		 K I A A 0 2 2 6  
+		 U L K 1  
+		 A D I P O R 2  
+		 H P S 5  
+		 I P 6 K 1  
+		 U B F D 1  
+		 P I T P N A  
+		 A P 2 B 1  
+		 T T C 9  
+		 D N A L 1  
+		 R B L 1  
+		 T A O K 2  
+		 A T L 3  
+		 A H C T F 1  
+		 C A M T A 2  
+		 R A P G E F 5  
+		 T M E M 1 3 3  
+		 P L C X D 3  
+		 R P S 6 K A 3  
+		 R P S 6 K A 5  
+		 C E P 9 7  
+		 X I A P  
+		 C D C 2 3  
+		 I T G A 4  
+		 M Y O 5 B  
+		 P T B P 1  
+		 N F I C  
+		 K I F 5 A  
+		 A B L 2  
+		 A K T I P  
+		 A R H G E F 2 8  
+		 G O S R 1  
+		 K I R R E L  
+		 A P B B 2  
+		 V P S 1 3 C  
+		 N E K 9  
+		 C T S A  
+		 C 1 5 o r f 6 1  
+		 S L C 2 5 A 3 6  
+		 E 2 F 1  
+		 V P S 1 3 A  
+		 I L 1 R A P  
+		 F O X K 2  
+		 C M T R 2  
+		 G P R 6  
+		 S P T Y 2 D 1  
+		 Y P E L 1  
+		 P L E K H A 7  
+		 S N X 1 2  
+		 T M E D 8  
+		 Z N F 6 9 7  
+		 Z N F 8 2 7  
+		 C N G B 3  
+		 F A M 2 1 9 B  
+		 V W A 7  
+		 P A F A H 1 B 2  
+		 S L C 1 6 A 6  
+		 C N N M 3  
+		 F R Z B  
+		 R C O R 1  
+		 P P M 1 A  
+		 T T C 7 A  
+		 S E R P 1  
+		 Z N F 8 0 5  
+		 I Q S E C 1  
+		 A P C D D 1  
+		 Z F Y V E 9  
+		 S H F  
+		 F B X O 4 1  
+		 H I F 1 A  
+		 F A M 2 1 6 B  
+		 S L C 3 0 A 5  
+		 P R D M 1 2  
+		 N B E A L 1  
+		 S Y T 7  
+		 R P S 6 K A 6  
+		 E R I 1  
+		 A P P L 1  
+		 C Y B R D 1  
+		 S L C 4 6 A 3  
+		 P K D 2  
+		 P D K 3  
+		 P L E K H O 2  
+		 Z H X 2  
+		 A K 4  
+		 S L C 4 1 A 1  
+		 S L C 4 5 A 4  
+		 M Y O 9 A  
+		 S M U R F 1  
+		 P E R 1  
+		 F A M 1 3 4 A  
+		 T B C 1 D 2 0  
+		 Z R A N B 1  
+		 G R I K 1 - A S 2  
+		 T M E M 1 0 0  
+		 Z N F 6 5 2  
+		 H S 2 S T 1  
+		 F G F 5  
+		 J A K 1  
+		 P P A R D  
+		 M T M R 3  
+		 H P 1 B P 3  
+		 A C S F 2  
+		 W N K 1  
+		 F L T 1  
+		 T L R 4 
+		 S S 1 8 L 1  
+		 Z N F 5 9 7  
+		 O S B P L 5  
+		 Z F Y V E 1 6  
+		 L D L R A P 1  
+		 T V P 2 3 B  
+		 S A T B 1  
+		 D E R L 2  
+		 D P Y S L 2  
+		 P T P N 2 1  
+		 P R R 1 4 L  
+		 N P M 1  
+		 F A M 1 3 C  
+		 C R E B 5  
+		 T M E M 1 3 2 B  
+		 P D L I M 5  
+		 N P A S 3  
+		 C H D 9  
+		 Z N F X 1  
+		 M E D 6  
+		 T R O A P  
+		 L H X 9  
+		 X R N 1  
+		 R U N X 3  
+		 S L C 3 6 A 1  
+		 P T P D C 1  
+		 B M P 2  
+		 W D R 3 7  
+		 A R M C 8  
+		 S D C 2  
+		 D C U N 1 D 3  
+		 M O S P D 2  
+		 G P R 1 3 3  
+		 R A P G E F 4  
+		 O C R L  
+		 N T N G 1  
+		 T R P V 6  
+		 N H S  
+		 A C V R L 1  
+		 U B E 2 B  
+		 B A H D 1  
+		 P T P N 3  
+		 R A B 1 0  
+		 E N T P D 4  
+		 L H X 4  
+		 A N K R D 1 3 C  
+		 S M T N L 2  
+		 M K N K 2  
+		 K I A A 1 1 4 7  
+		 P P A R A  
+		 R B 1  
+		 E 2 F 5  
+		 C C L 1  
+		 K P N A 5  
+		 L L P H  
+		 F B X L 5  
+		 C D H 1 9  
+		 I G S F 1 0  
+		 S P R Y 4  
+		 L R P 1 2  
+		 M Y L I P  
+		 P T P R D  
+		 T H R A  
+		 C A L D 1  
+		 T M E M 1 2 3  
+		 D N A J C 2 7  
+		 I L 1 7 R D  
+		 K C N B 1  
+		 C R A M P 1 L  
+		 H T R 2 A  
+		 P A F A H 2  
+		 S C M L 2  
+		 R A S G R F 2  
+		 M I D 1  
+		 F B X O 3 9  
+		 C T D S P L  
+		 R B M S 1  
+		 M A P 3 K 1 2  
+		 P D E 1 B  
+		 A T O H 1  
+		 G B F 1  
+		 S M I M 1 4  
+		 O S M  
+		 Z N F 2 5  
+		 U B E 3 C  
+		 F O X B 1  
+		 Y P E L 4  
+		 P I K F Y V E  
+		 T M X 3  
+		 N D E L 1  
+		 B M P 2 K  
+		 C C N J  
+		 A D R A 1 B  
+		 P G M 2 L 1  
+		 P L C B 1  
+		 Y E S 1  
+		 M A P K 4  
+		 A N O 6  
+		 I T P R I P L 2  
+		 S L C 2 2 A 2 3  
+		 N B E A L 2  
+		 B T G 1  
+		 S E R T A D 2  
+		 R S B N 1  
+		 F O X L 2  
+		 R A C G A P 1  
+		 T M E M 2 3 1  
+		 Z F P 3  
+		 B N I P 2  
+		 M A S T 3  
+		 G P L D 1  
+		 P K N 2  
+		 K I A A 0 5 1 3  
+		 M A L S U 1  
+		 N I N  
+		 N T N 4  
+		 P I K 3 R 1  
+		 Z N F 2 8 0 B  
+		 C Y B 5 6 1 D 1  
+		 A T G 2 A  
+		 S U C O  
+		 S H 2 D 5  
+		 A T P 1 A 2  
+		 M I E R 2  
+		 C D H 2 4  
+		 N C K A P 5  
+		 M S L 1  
+		 G M P R  
+		 P L A G L 2  
+		 T B C 1 D 9  
+		 H D A C 4  
+		 C D C A 3  
+		 T I M M 1 7 A  
+		 M A P 3 K 1 1  
+		 P O N 2  
+		 P A R P 6  
+		 B T B D 7  
+		 S I N 3 B  
+		 F Y C O 1  
+		 S V 2 B  
+		 K L H L 3 6  
+		 M B D 2  
+		 B E C N 1  
+		 B 3 G A L T 2  
+		 S C R T 2  
+		 I R F 9  
+		 R E S T  
+		 Z X D A  
+		 C O R O 2 B  
+		 T M E M 2 5  
+		 T A O K 3  
+		 M M P 2 4  
+		 L R I G 1  
+		 C M P K 1  
+		 A F F 1  
+		 F A M 3 C  
+		 A L G 3  
+		 R P S 6 K A 2  
+		 U X S 1  
+		 K A T 2 B  
+		 U B E 2 J 1  
+		 M X I 1  
+		 A D A R  
+		 S L C 2 4 A 2  
+		 K D M 2 A  
+		 R B L 2  
+		 T M E M 5 0 B  
+		 L A M A 3  
+		 P L S C R 4  
+		 R G S 9 B P  
+		 P S E N 1  
+		 K C N M B 3  
+		 T R I O B P  
+		 N B E A  
+		 K M T 2 A  
+		 I N T S 6  
+		 I P C E F 1  
+		 B T G 3  
+		 P T G D R  
+		 I T P K B  
+		 D A B 1  
+		 C B X 8  
+		 E P A S 1  
+		 H S 3 S T 3 A 1  
+		 G N B 5  
+		 E X P H 5  
+		 E I F 2 S 1  
+		 T I M M 8 B  
+		 E 2 F 2  
+		 R G S 4  
+		 S L C 2 5 A 2 7  
+		 C 7 o r f 4 1  
+		 Z B T B 4  
+		 I S M 1  
+		 K L H L 8  
+		 P F K F B 3  
+		 O R A I 1  
+		 K I A A 1 5 2 2  
+		 P X K  
+		 I N O 8 0  
+		 E R B B 3  
+		 H O X B 1 3  
+		 F A M 1 1 7 A  
+		 S N X 2 1  
+		 D I R C 2  
+		 A T G 2 B  
+		 A N K R D 2 9  
+		 A M E R 2  
+		 T R I M 3 2  
+		 R U F Y 2  
+		 G P R 1 3 7 B  
+		 D O C K 4  
+		 H S 3 S T 5  
+		 M A R K 4  
+		 R N F 2 1 7  
+		 E X T 1  
+		 Z B T B 4 3  
+		 P A K 3  
+		 K C N K 1 0  
+		 C A P R I N 1  
+		 F R M D 6  
+		 U B E 2 Q L 1  
+		 R A B 2 2 A  
+		 T S G 1 0 1  
+		 K L H L 2  
+		 C O L 1 9 A 1  
+		 Z N F 7 0  
+		 F A M 4 5 A  
+		 C H D 5  
+		 H O O K 3  
+		 C M T M 4  
+		 R B B P 7  
+		 M B D 5  
+		 T M E M 2 0 0 C  
+		 N K X 2 - 2  
+		 P O F U T 1  
+		 S T R I P 2  
+		 C L I P 4  
+		 N H L H 1  
+		 F A M 1 6 0 B 2  
+		 S N X 1 6  
+		 S L C 3 0 A 1  
+		 M F N 2  
+		 P L E K H M 1  
+		 U 2 S U R P  
+		 S A C S  
+		 M M P 2  
+		 F G D 4  
+		 C E N P Q  
+		 F A F 2  
+		 S K I D A 1  
+		 S L C 1 7 A 7  
+		 T M E M 6 4  
+		 T M E M 1 2 7  
+		 P E X 5 L  
+		 S E S N 2  
+		 P H L P P 2  
+		 P H C 3  
+		 P P P 6 R 1  
+		 C L O C K  
+		 S L C 2 5 A 5 1  
+		 X R R A 1  
+		 D P P 3  
+		 C X C L 1 4  
+		 P D C D 1 L G 2  
+		 K C N R G  
+		 P K D 1  
+		 F N B P 1 L  
+		 C D C 4 0  
+		 N P L O C 4  
+		 R A S S F 2  
+		 P R D M 1 0  
+		 S P 9  
+		 B C R  
+		 P P P 1 R 2 1  
+		 S F X N 5  
+		 R I M K L A  
+		 M C L 1  
+		 N C E H 1  
+		 G M C L 1  
+		 A S F 1 A  
+		 Z C 3 H 7 B  
+		 F A M 1 3 4 C  
+		 S O R L 1  
+		 L I T A F  
+		 A D A M T S L 2  
+		 A H R R  
+		 P G B D 5  
+		 T R I M 3 6  
+		 D U S P 2  
+		 P I P 4 K 2 A  
+		 H E C A  
+		 H O X D 1 1  
+		 M L L T 1  
+		 M A K 1 6  
+		 M E D 1 7  
+		 P D G F B  
+		 G P R 1 5 7  
+		 B T G 2  
+		 E G R 2  
+		 M G E A 5  
+		 Z F Y V E 2 6  
+		 B T B D 1 0  
+		 S M A D 6  
+		 C D K N 1 A  
+		 O S R 1  
+		 B 4 G A L T 6  
+		 D I P 2 A  
+		 L A P T M 4 A  
+		 F A M 1 0 2 A  
+		 S I R T 7  
+		 S F M B T 1  
+		 C Y P 2 6 B 1  
+		 C O X 2 0  
+		 S O W A H C  
+		 K L F 1 1  
+		 C 1 0 o r f 1 0 7  
+		 T I A M 1  
+		 P O L Q  
+		 A C E R 2  
+		 T B C 1 D 1 7  
+		 Z N F 2 1 7  
+		 A R H G E F 1 0  
+		 P C Y T 1 B  
+		 P L S 1  
+		 U C P 3  
+		 Z B T B 8 A  
+		 R N F 1 4 5  
+		 R N F 1 3  
+		 G I N S 1  
+		 A R S J  
+		 D P F 3  
+		 W I P F 2  
+		 S T K 1 7 B  
+		 L I F  
+		 R A B 1 2  
+		 U B C  
+		 C 1 4 o r f 2 8  
+		 H M B O X 1  
+		 S N X 8  
+		 F O X A 1  
+		 C A B L E S 1  
+		 C 1 1 o r f 8 2  
+		 F A M 1 9 A 1  
+		 F B X O 4 8  
+		 P R R G 1  
+		 T R I M 3 7  
+		 T M T C 1  
+		 S M O C 1  
+		 G N S  
+		 T N K S 1 B P 1  
+		 R A B 2 1  
+		 F G F 4  
+		 C R T C 3  
+		 A T E 1  
+		 W F S 1  
+		 S Y T L 4  
+		 U S P 3 7  
+		 C S G A L N A C T 1  
+		 A N K H  
+		 P R D M 6  
+		 C 3 o r f 3 8  
+		 Z D H H C 9  
+		 R P S 6 K A 4  
+		 T L E 4  
+		 R S R C 2  
+		 G O L G A 1  
+		 U R I 1  
+		 L H X 8  
+		 M A P 3 K 5  
+		 T C E B 3  
+		 A D A M 9  
+		 E I F 4 H  
+		 S R C I N 1  
+		 E P H B 4  
+		 E I F 4 E  
+		 M L L T 6  
+		 F A M 1 2 9 B  
+		 N E D D 4 L  
+		 P O U 6 F 2  
+		 C O X 7 A 2 L  
+		 A C T R 1 A  
+		 M A G O H B  
+		 F A M 1 3 1 B  
+		 A R H G A P 3 5  
+		 S R S F 1 2  
+		 N P A S 2  
+		 C C N D 1  
+		 A T G 1 4  
+		 K I F 3 B  
+		 Z D H H C 8  
+		 C C N D 2  
+		 M 6 P R  
+		 S T 8 S I A 2  
+		 S H O C 2  
+		 C S F 1  
+		 M C M 3  
+		 C 7 o r f 6 0  
+		 T P P P  
+		 S E M A 4 G  
+		 F R M D 4 B  
+		 S O X 4  
+		 A C P L 2  
+		 A B C G 4  
+		 B I D  
+		 T R I M 6 6  
+		 C I T  
+		 S E N P 5  
+		 T P R G 1 L  
+		 X K R 4  
+		 S C D 5  
+		 C X o r f 5 6  
+		 A N K R D 9  
+		 P R R 1 5  
+		 W A S F 3  
+		 S U M F 1  
+		 C O X 8 C  
+		 O X R 1  
+		 F A M 1 6 0 B 1  
+		 V E G F A  
+		 N A G K  
+		 P P P 6 R 2  
+		 R P S 6 K A 1  
+		 K I A A 0 2 4 7  
+		 M I N O S 1 - N B L 1  
+		 F X R 1  
+		 C E L S R 2  
+		 P P P 1 R 3 B  
+		 T B L 1 X  
+		 B C L 2 L 2  
+		 F E M 1 C  
+		 R A P H 1  
+		 N E U R O D 2  
+		 S L C 1 1 A 1  
+		 G P C 6  
+		 I L 1 R A P L 1  
+		 T B X 3  
+		 T G F B R A P 1  
+		 Z N F 7 0 3  
+		 P O L R 3 G  
+		 T C T E X 1 D 1  
+		 M C C  
+		 C D 6 9  
+		 R N F 6  
+		 T R I M 3  
+		 U B X N 2 A  
+		 M F N 1  
+		 F I B I N  
+		 U S P 5 3  
+		 U B E 2 Q 2  
+		 P S D  
+		 A R H G A P 1 2  
+		 B V E S  
+		 C I C  
+		 P H I P  
+		 L A S P 1  
+		 T P 7 3  
+		 M F S D 9  
+		 R A S A 2  
+		 K L H L 2 0  
+		 G X Y L T 1  
+		 S L C 2 A 8  
+		 L Y S T  
+		 S L C 1 6 A 1 2  
+		 U S P 3  
+		 K I F 2 6 B  
+		 W W C 2  
+		 T O P O R S  
+		 L A M T O R 1  
+		 B M P R 2  
+		 F Z D 3  
+		 F S T L 4  
+		 D S G 4  
+		 P L X N A 1  
+		 M Y C L  
+		 F B X O 3 1  
+		 A C V R 1 B  
+		 K M T 2 C  
+		 A G O 1  
+		 K I A A 1 4 6 2  
+		 M E X 3 D  
+		 W H S C 1  
+		 G P D 2  
+		 T H B S 2  
+		 L A C E 1  
+		 B N I P 3 L  
+		 M I C A L 3  
+		 C R I M 1  
+		 T H R B  
+		 L A M P 1  
+		 K A T N A L 1  
+		 U S P 2 4  
+		 R A B 5 B  
+		 E R O 1 L B  
+		 R A B 1 1 F I P 5  
+		 A R L 5 A  
+		 F U R I N  
+		 N A P E P L D  
+		 V A S P  
+		 L D L R  
+		 S A L L 3  
+		 R P P 1 4  
+		 T M E M 1 6 7 A  
+		 M A P R E 1  
+		 C N O T 7  
+		 F O X Q 1  
+		 T A D A 2 B  
+		 P U R G  
+		 L Y P D 6  
+		 F A M 2 1 0 A  
+		 C D 2 2 6  
+		 N R S N 1  
+		 L R R C 2 0  
+		 G R I N 2 B  
+		 S L C 4 8 A 1  
+		 D N A J B 9  
+		 R O R C  
+		 S T K 1 1 I P  
+		 T A C C 1  
+		 V T I 1 A  
+		 E G L N 3  
+		 N F A T 5  
+		 A T P 1 1 A  
+		 S L C 3 5 F 3  
+		 S L C 2 9 A 2  
+		 R A P G E F 1  
+		 K M T 2 B  
+		 C E P 5 7  
+		 R A B 1 1 F I P 4  
+		 N A B P 1  
+		 Z B T B 4 4  
+		 I L 8  
+		 Z B T B 1 4  
+		 F I T M 2  
+		 H E C T D 2  
+		 G L I S 3  
+		 T M E M 1 6 8  
+		 P I G H  
+		 I G F 2 B P 1  
+		 C E P 1 2 0  
+		 S P 8  
+		 K I A A 0 9 2 2  
+		 F A M 1 2 9 A  
+		 P A R D 6 B  
+		 A J U B A  
+		 T B C 1 D 2  
+		 T N F A I P 1  
+		 L D L R A D 3  
+		 P O C 1 B - G A L N T 4  
+		 T R A P P C 1 0  
+		 E L O V L 6  
+		 J A Z F 1  
+		 R H O  
+		 M A T 2 B  
+		 W N T 9 B  
+		 S U V 4 2 0 H 1  
+		 C M K L R 1  
+		 N R I P 3  
+		 D E D D  
+		 M K R N 1  
+		 K I A A 1 6 7 1  
+		 T B C 1 D 1 0 C  
+		 F J X 1  
+		 K I F 2 3  
+		 L I M A 1  
+		 A T O H 8  
+		 P C M T D 1  
+		 R A S G E F 1 A  
+		 V S X 1  
+		 A R H G A P 3 1  
+		 G I T 2  
+		 P O U 6 F 1  
+		 P R R G 4  
+		 S L K  
+		 S L C 2 5 A 4 4  
+		 F 3  
+		 N B L 1  
+		 P A N X 2  
+		 S R P K 2  
+		 D N M 2  
+		 A R H G A P 1  
+		 C H S T 7  
+		 C E R S 6  
+		 B R W D 1  
+		 F A T 2  
+		 F A I M 2  
+		 G D F 1 1  
+		 S M O C 2  
+		 S E M A 4 B  
+		 M I N K 1  
+		 A E N  
+		 L P G A T 1  
+		 C Y P 2 U 1  
+		 L R C H 1  
+		 S S H 1  
+		 S T X 6  
+		 P P P 1 R 3 G  
+		 F A M 1 1 7 B  
+		 M B T P S 1  
+		 H C N 4  
+		 L R P 8  
+		 C A N T 1  
+		 U B E 2 W  
+		 S L C 1 A 2  
+		 D R D 1  
+		 C 3 o r f 7 0  
+		 S T A R D 4  
+		 T R I P 1 0  
+		 R A D 2 3 B  
+		 P R R 1 2  
+		 M Y O 1 D  
+		 L R R C 5 5  
+		 S H 3 B P 5  
+		 M A R C H 8  
+		 G C N T 4  
+		 P C N P  
+		 T R I M 8  
+		 T M U B 2  
+		 L I M K 1  
+		 M E C P 2  
+		 D A B 2  
+		 L R R C 4 0  
+		 O P C M L  
+		 L U Z P 1  
+		 R H O C  
+		 C 1 6 o r f 7 2  
+		 S Y N E 2  
+		 R R M 2  
+		 S L C 3 3 A 1  
+		 S L I T R K 2  
+		 T A G A P  
+		 A H N A K  
+		 U N K L  
+		 T X L N A  
+		 A B H D 5  
+		 U R G C P  
+		 K R T 8 1  
+		 F R K  
+		 S N T G 1  
+		 N E U R O G 3  
+		 C C D C 2 5  
+		 P E A K 1  
+		 D N A J B 6  
+		 A T A D 2  
+		 F B X O 2 8  
+		 N U B P 1  
+		 N R B P 1  
+		 U E V L D  
+		 Z N F 3 8 5 A  
+		 S U L F 1  
+		 U B A S H 3 A  
+		 F E M 1 B  
+		 F I C D  
+		 G N A 1 1  
+		 W D R 8 2  
+		 A T G 7  
+		 G A R E M  
+		 A R H G E F 1 1  
+		 V P S 2 6 A  
+		 O S T M 1  
+		 K L H L 2 8  
+TargetScan8.0__miR-144-3p.txt	678	 
+
+		 N F E 2 L 2  
+		 G L I 2  
+		 B C L 9 L  
+		 T M E M 1 6 3  
+		 C O X 7 C  
+		 R I N 2  
+		 S L C 1 2 A 2  
+		 U B E 2 D 2  
+		 C A S K  
+		 L M T K 2  
+		 Z N F 2 9 2  
+		 V E Z T  
+		 K I N  
+		 C S R N P 2  
+		 T G F A  
+		 R G S 1 6  
+		 R H P N 2  
+		 C A C N B 2  
+		 N E K 7  
+		 J H D M 1 D  
+		 P M A I P 1  
+		 O S B P L 1 A  
+		 T B C 1 D 1 4  
+		 S L C 2 5 A 2 1  
+		 E B F 2  
+		 N Y A P 2  
+		 F A M 1 9 3 B  
+		 P B R M 1  
+		 Z N F 4 6 9  
+		 L R R C 1  
+		 T F A P 4  
+		 Z N F 6 5 4  
+		 A T P 2 C 1  
+		 M T M R 1 2  
+		 K P N A 1  
+		 I C K  
+		 S E M A 6 D  
+		 B M P R 1 A  
+		 U S P 3 8  
+		 E F N A 5  
+		 S N A P 9 1  
+		 A M M E C R 1  
+		 K D M 3 A  
+		 Y L P M 1  
+		 S S 1 8  
+		 I T P R I P L 1  
+		 I G F 2 R  
+		 P P F I A 4  
+		 G E T 4  
+		 A R F G E F 1  
+		 P G G T 1 B  
+		 P T P N 5  
+		 A T P 5 G 2  
+		 P L E K H G 3  
+		 E P B 4 1  
+		 J A K M I P 2  
+		 F G F 7  
+		 S Y N R G  
+		 G R M 5  
+		 I T G A 6  
+		 S O R C S 3  
+		 M A P 7 D 1  
+		 Z N R F 2  
+		 N L N  
+		 G N A I 3  
+		 U B R 3  
+		 C 8 o r f 4 4 - S G K 3  
+		 E I F 5  
+		 F B X W 7  
+		 M Y T 1  
+		 M O R N 4  
+		 C N N 3  
+		 S H H  
+		 C A M K 2 D  
+		ÿþu  
+		 P G R M C 2  
+		 P I K 3 C B  
+		 G P R 1 8 3  
+		 D C A F 7  
+		 I P O 8  
+		 J A K M I P 3  
+		 C P N E 2  
+		 G P R 1 7 4  
+		 K I F 3 A  
+		 K C N M B 2  
+		 D R 1  
+		 P S K H 1  
+		 A G R N  
+		 C D C 7 3  
+		 C Y P 2 7 C 1  
+		 N U P 6 2 C L  
+		 C I T E D 2  
+		 G N A 1 3  
+		 J P H 1  
+		 Z N F 6 3 8  
+		 E C E 1  
+		 R P A 1  
+		 S L C 3 5 A 3  
+		 F U B P 3  
+		 K I T L G  
+		 I M P A C T  
+		 G T F 2 A 1  
+		 T N S 3  
+		 O G F R L 1  
+		 B R C C 3  
+		 P P P 2 R 5 E  
+		 N R K  
+		 Z C C H C 2  
+		 R S P O 2  
+		 C A V 3  
+		 E L L 2  
+		 D L C 1  
+		 F O S B  
+		 D A Z 3  
+		 A T P 2 B 1  
+		 Z B T B 3 4  
+		 R A P 1 A  
+		 A E B P 2  
+		 T N C  
+		 S P A T A 2  
+		 F A M 7 3 A  
+		 U G G T 1  
+		 P T G S 2  
+		 E D A  
+		 L P H N 2  
+		 S M A R C A 4  
+		 K C N J 8  
+		 A D A M T S L 3  
+		 C G G B P 1  
+		 G A T S L 2  
+		 S C A M P 1  
+		 M S I 1  
+		 M R G B P  
+		 I T P R 1  
+		 S G K 3  
+		 M Y B  
+		 C O L 5 A 2  
+		 F G F R 1 O P  
+		 R R E B 1  
+		 C 1 9 o r f 8 1  
+		 I M P A 1  
+		 A L S 2  
+		 M Y O 1 E  
+		 Z D H H C 1 7  
+		 M B N L 1  
+		 M E D 1 4  
+		 S O X 6  
+		 H M G N 2  
+		 G S P T 1  
+		 C O P S 2  
+		 M A T N 2  
+		 M A G I 2  
+		 M A R C K S  
+		 P N R C 1  
+		 E R O 1 L  
+		 P T P N 9  
+		 X K R 6  
+		 S H 3 G L B 1  
+		 M A R C H 7  
+		 F O X O 1  
+		 J D P 2  
+		 M A F K  
+		 S L C 8 A 1  
+		 P D S 5 B  
+		 S E M A 6 A  
+		 C R T C 1  
+		 H N R N P A B  
+		 N S D 1  
+		 G B E 1  
+		 G R S F 1  
+		 N R 3 C 1  
+		 P T P 4 A 1  
+		 R C N 2  
+		 A T R X  
+		 Z N F 3 6 6  
+		 M G R N 1  
+		 T S P A N 6  
+		 K P N A 6  
+		 S T A C  
+		 E M P 1  
+		 C D C 4 2 E P 3  
+		 Y W H A G  
+		 J A K 2  
+		 R C 3 H 1  
+		 A R N T L 2  
+		 C U L 4 B  
+		 L G R 4  
+		 I T G A 8  
+		 P P F I A 1  
+		 R A B 4 A  
+		 M G A T 4 A  
+		 R A D 5 4 L 2  
+		 S I M 1  
+		 R A P 1 B  
+		 Z B T B 7 C  
+		 N C S 1  
+		 P A L M 2  
+		 T B C 1 D 1 9  
+		 S I N 3 A  
+		 F L R T 3  
+		 R N P C 3  
+		 H A P L N 1  
+		 T E C T A  
+		 D N A J C 6  
+		 L R R T M 2  
+		 S U C L A 2  
+		 N R 6 A 1  
+		 S L C 1 A 1  
+		 T O X  
+		 U C K 2  
+		 P P P 2 R 2 D  
+		 L S A M P  
+		 P H A C T R 2  
+		 E L F N 2  
+		 C A M S A P 2  
+		 E L P 4  
+		 F B N 2  
+		 F A M 2 2 2 A  
+		 R A S D 2  
+		 M E F 2 D  
+		 C C D C 8 8 A  
+		 H E L Z  
+		 N U D T 1 1  
+		 F O X N 4  
+		 E L F 5  
+		 A R R D C 3  
+		 B E G A I N  
+		 S L C 6 A 1 7  
+		 P A P P A  
+		 Z N F 4 6 2  
+		 T B X 1 8  
+		 Z C 2 H C 1 A  
+		 S K I L  
+		 T E K  
+		 C Y P 2 4 A 1  
+		 D R P 2  
+		 M Y B L 1  
+		 E T S 1  
+		 E P N 2  
+		 N R 1 D 2  
+		 H 2 A F V  
+		 T R D M T 1  
+		 B R P F 3  
+		 K L F 6  
+		 C O L 8 A 1  
+		 K H D R B S 2  
+		 C N O T 1  
+		 E L N  
+		 T M E M 2 5 7  
+		 R A L G P S 2  
+		 Z N F 7 4 6  
+		 G A L N T 1  
+		 C A C N A 2 D 1  
+		 S E N P 7  
+		 D C T N 2  
+		 M O R C 3  
+		 R A L B P 1  
+		 V P S 3 5  
+		 P P P 1 C C  
+		 F K B P 7  
+		 P D E 4 A  
+		 M B T D 1  
+		 C L M P  
+		 C C R N 4 L  
+		 G P R I N 3  
+		 E D A R  
+		 C B X 4  
+		 T B X 1  
+		 Q S E R 1  
+		 M Y H 1 0  
+		 M A R K 1  
+		 P L X N C 1  
+		 G A B R A 1  
+		 A N K R D 1 1  
+		 M R P S 1 4  
+		 M L L T 4  
+		 T G I F 1  
+		 H G F  
+		 A T P 1 B 2  
+		 S A P 3 0 L  
+		 L R R N 1  
+		 S N N  
+		 Z N F 7 7 7  
+		 A S A P 1  
+		 C 1 0 o r f 1 1 8  
+		 M B N L 2  
+		 F G D 6  
+		 C B F A 2 T 2  
+		 R P P 4 0  
+		 I R S 1  
+		 P A B P N 1  
+		 K I F 1 4  
+		 P E X 7  
+		 R A B 1 A  
+		 K I F 2 A  
+		 P C S K 5  
+		 S T I L  
+		 N K R F  
+		 A C V R 2 B  
+		 C X X C 4  
+		 G L G 1  
+		 A L 1 6 2 4 0 7 . 1  
+		 N D R G 4  
+		 U B R 1  
+		 S L C 2 0 A 2  
+		 H A T 1  
+		 D V L 1  
+		 F O S  
+		 M I T F  
+		 L A N C L 3  
+		 U S P 9 X  
+		 A P C  
+		 C X o r f 2 3  
+		 S T A M  
+		 T M E M 1 8 9  
+		 M Y E F 2  
+		 A L D H 1 A 3  
+		 S T 5  
+		 B M P R 1 B  
+		 F M R 1  
+		 P R K C E  
+		 S U M O 3  
+		 E M P 2  
+		 G M E B 2  
+		 T P D 5 2  
+		 C A V 2  
+		 T M E M 1 6 1 B  
+		 C D S 2  
+		 Z N F 5 7 4  
+		 M T X 3  
+		 D I P 2 B  
+		 K C T D 1 0  
+		 S T O X 2  
+		 P O U 3 F 1  
+		 R A B 2 A  
+		 C P E B 1  
+		 T M F 1  
+		 R B M 2 5  
+		 R A P 2 B  
+		 A C 0 6 8 9 8 7 . 1  
+		 T C F L 5  
+		 S T X 7  
+		 P H L D A 1  
+		 S I X 4  
+		 N E T 1  
+		 U B E 2 V 1  
+		 C C N K  
+		 Z N R F 3  
+		 T E N M 3  
+		 L I M C H 1  
+		 U B E 2 D 1  
+		 C O L 1 1 A 1  
+		 Z E B 1  
+		 G C L C  
+		 G N A L  
+		 L S M 1 4 A  
+		 F A M 7 6 B  
+		 P A X 3  
+		 P A B P C 1 L 2 B  
+		 T N P O 1  
+		 T I M M 8 A  
+		 T N R C 1 8  
+		 N H L R C 2  
+		 K A T 6 A  
+		 D N A J C 2  
+		 P R I C K L E 1  
+		 N R 5 A 2  
+		 A B H D 1 7 B  
+		 S T M N 1  
+		 B E N D 3  
+		 T O P 2 A  
+		 M O B 4  
+		 R N F 1 2 5  
+		 E Z H 2  
+		 C 2 0 o r f 1 9 4  
+		 H S P E 1 - M O B 4  
+		 K H D R B S 3  
+		 G A T A 3  
+		 K L H L 2 3  
+		 K S R 1  
+		 P P P 4 R 1  
+		 S T A T 6  
+		 Z N F 5 0 7  
+		 C A P Z A 1  
+		 D C L R E 1 C  
+		 Z C 3 H 1 2 A  
+		 S E L 1 L  
+		 D T N A  
+		 D O K 4  
+		 A R I D 1 A  
+		 T M E M 5 5 A  
+		 E P S 8  
+		 S L C 4 5 A 3  
+		 P R O X 1  
+		 Z C 3 H 1 1 A  
+		 V P S 4 B  
+		 R A L G P S 1  
+		 H S 3 S T 3 B 1  
+		 L S M 1 4 B  
+		 L I F R  
+		 R B M 1 2  
+		 A N K S 1 A  
+		 T H O C 2  
+		 A G F G 1  
+		 M E F 2 A  
+		 F R Y L  
+		 F L R T 2  
+		 S O N  
+		 D A Z 4  
+		 E 2 F 8  
+		 R X R B  
+		 P D C D 4  
+		 B R P F 1  
+		 C C N E 2  
+		 S T A R D 8  
+		 U B E 2 F  
+		 S Y N G A P 1  
+		 G P M 6 B  
+		 S P I R E 1  
+		 K R T 2 2 2  
+		 A G P A T 3  
+		 T N I K  
+		 T M T C 3  
+		 K C M F 1  
+		 A T F 7 I P  
+		 P M M 2  
+		 P A G 1  
+		 S E T D 5  
+		 M T P N  
+		 B E T 1  
+		 K C N C 4  
+		 M A P 1 B  
+		 C 1 0 o r f 1 2  
+		 A N O 1  
+		 F G F 1 6  
+		 N G F R A P 1  
+		 C D H 8  
+		 R A B 5 A  
+		 Z F X  
+		 S L C 2 3 A 2  
+		 T T N  
+		 T J P 1  
+		 P L E K H G 1  
+		 S G M S 2  
+		 P H F 2 0 L 1  
+		 N I D 2  
+		 P S D 2  
+		 I G I P  
+		 T S P A N 3  
+		 T H B S 1  
+		 N L K  
+		 P A N K 1  
+		 Z D H H C 2 1  
+		 Z B T B 5  
+		 N E D D 4  
+		 Z C 3 H 6  
+		 T B L 1 X R 1  
+		 P O U 2 F 1  
+		 H N R N P C  
+		 H M G N 3  
+		 G P R 8 5  
+		 K I T  
+		 R A B 3 9 B  
+		 P L A 2 G 4 A  
+		 P F D N 6  
+		 B B C 3  
+		 R A B 1 8  
+		 C 3 o r f 5 8  
+		 B C L 9  
+		 G S P T 2  
+		 Z F P 3 6 L 2  
+		 M B T P S 2  
+		 S U L T 4 A 1  
+		 M U C 1 9  
+		 P R K D 3  
+		 C N T N 3  
+		 D G C R 2  
+		 R N F 4 4  
+		 G R A M D 4  
+		 D A Z 1  
+		 P I K 3 C 2 A  
+		 K I A A 0 5 5 6  
+		 D A Z L  
+		 A T A D 2 B  
+		 C E P 5 5  
+		 S F R P 1  
+		 T T C 3 3  
+		 L U Z P 6  
+		 S M P D 3  
+		 P A X 8  
+		 P A P P A 2  
+		 Z B E D 4  
+		 C 5 o r f 2 4  
+		 G O L G A 4  
+		 M A R C H 3  
+		 C D Y L  
+		 S L C 1 9 A 2  
+		 T R I M 2 4  
+		 A K I R I N 1  
+		 U B E 2 D 3  
+		 M S I 2  
+		 R N F 1 1 1  
+		 M M P 1 5  
+		 A T G 4 D  
+		 A D A M T S 1 5  
+		 G D F 1 0  
+		 L H X 1  
+		 Z M Y M 2  
+		 M E D 1 3  
+		 A N K 2  
+		 M T M R 2  
+		 T M E M 1 8 9 - U B E 2 V 1  
+		 S W A P 7 0  
+		 F A M 1 9 6 A  
+		 Z Z Z 3  
+		 K B T B D 8  
+		 S E C 2 4 A  
+		 K C N J 6  
+		 P I P 5 K 1 C  
+		 S O A T 1  
+		 D L G 5  
+		 M A P 3 K 4  
+		 T S P A N 1 2  
+		 A H D C 1  
+		 T A B 2  
+		 R N F 1 3 9  
+		 A F A P 1  
+		 U B E 2 G 1  
+		 M A M L 3  
+		 R E V 1  
+		 P U M 1  
+		 K A T 7  
+		 S L C 4 A 1 0  
+		 M S X 1  
+		 I T S N 2  
+		 F O X G 1  
+		 D N M T 3 A  
+		 H O X A 1 0  
+		 E R B B 4  
+		 A C B D 3  
+		 T M E M 1 6 5  
+		 V W C 2 L  
+		 R A S G R F 1  
+		 M L E C  
+		 K C N H 7  
+		 C D H 2  
+		 N U D C D 1  
+		 L H X 2  
+		 C D R 2  
+		 P R D M 1 6  
+		 K D M 3 B  
+		 B R S K 2  
+		 N E U R O D 1  
+		 Z N F 7 7 0  
+		 W T A P  
+		 T S P A N 5  
+		 F A M 4 6 A  
+		 N D F I P 1  
+		 D L G A P 3  
+		 U S P 5 4  
+		 M O N 2  
+		 T G I F 2  
+		 A P L P 2  
+		 H S F 2  
+		 N P T X 1  
+		 S O X 1  
+		 A S H 1 L  
+		 P R R C 2 C  
+		 K B T B D 2  
+		 K A T N B L 1  
+		 S P 4  
+		 P L A T  
+		 A D R B 1  
+		 F I L I P 1 L  
+		 T R I O  
+		 S O C S 2  
+		 S E T D 3  
+		 C D H 1 1  
+		 U S P 4 2  
+		 S T A G 1  
+		 N A C C 1  
+		 F M N 2  
+		 P T C H 1  
+		 G M F B  
+		 C D H 5  
+		 C X X C 5  
+		 C D V 3  
+		 G O L G A 7  
+		 T R I B 1  
+		 H L T F  
+		 L N P E P  
+		 D M D  
+		 P Y G O 1  
+		 O T U D 7 A  
+		 H N R N P F  
+		 M F S D 6  
+		 C B L L 1  
+		 K I A A 1 0 3 3  
+		 M E T  
+		 C D H 2 0  
+		 U B E 2 A  
+		 N O G  
+		 S L C 7 A 1 1  
+		 M E G F 9  
+		 P A P D 5  
+		 C H I C 2 
+		 P A X 5  
+		 H D A C 9  
+		 C U L 5  
+		 K C N A 1  
+		 A X I N 2  
+		 B A Z 2 B  
+		 D O C K 3  
+		 E N A H  
+		 C E P 1 3 5  
+		 L B R  
+		 P D C L  
+		 G P R 1 5 8  
+		 Z E B 2  
+		 B T A F 1  
+		 P R R 1 1  
+		 S R C  
+		 M A G I 3  
+		 M M G T 1  
+		 P I E Z O 1  
+		 B C L 2 L 2 - P A B P N 1  
+		 P H F 3  
+		 T D G  
+		 H T R A 3  
+		 A R P P 2 1  
+		 C R I S P L D 1  
+		 H D G F R P 3  
+		 V K O R C 1 L 1  
+		 C E B P A  
+		 C A L B 1  
+		 A R H G A P 1 8  
+		 K C N K 1 2  
+		 S P R Y 3  
+		 Z F A N D 3  
+		 C A M K K 2  
+		 B E A N 1  
+		 C H T O P  
+		 F A X C  
+		 K I A A 1 2 1 7  
+		 R A N B P 9  
+		 S E P H S 1  
+		 P P P 1 R 1 6 B  
+		 S T A U 1  
+		 N R 2 F 2  
+		 K C T D 1 2  
+		 N O L 7  
+		 K L F 8  
+		 H O X A 7  
+		 G K 5  
+		 P O D X L  
+		 C A N D 1  
+		 T O P 1  
+		 E R N 1  
+		 N T 5 D C 1  
+		 I F F O 2  
+		 C 1 2 o r f 5  
+		 G S K 3 B  
+		 K C N N 3  
+		 S O G A 2  
+		 A B H D 1 7 C  
+		 D A Z 2  
+		 S L I T R K 4  
+		 H E Y 2  
+		 D P P 8  
+		 L O N R F 3  
+		 S O X 1 1  
+		 A L C A M  
+		 C Y T H 3  
+		 C 1 9 o r f 7 3  
+		 A R I D 2  
+		 G A B P A  
+		 F N 1  
+		 F B X O 3 2  
+TargetScan8.0__miR-758-3p.txt	157	 
+
+		 S P A T A 1 7  
+		 I L K  
+		 M O B 3 B  
+		 N T 5 C 1 A  
+		 S E C 1 6 B  
+		 C T D - 2 0 5 4 N 2 4 . 2  
+		 F B X L 7  
+		 P P P 2 R 2 C  
+		 P A X 6  
+		 B Z R A P 1  
+		 N U P 3 7  
+		 V M P 1  
+		 C A S P 3  
+		 A 1 C F  
+		 C 1 o r f 1 9 8  
+		 D S T N  
+		 C U X 2  
+		 P L C L 1  
+		 C C D C 7 9  
+		 C D K 1 3  
+		 N A A 4 0  
+		 N O T C H 2  
+		 M A D 2 L 1  
+		 P G M 3  
+		 T B X 4  
+		 B 3 G N T 9  
+		 Z N F 7 7 2  
+		 B M P 7  
+		 F B R S L 1  
+		 D D X 1 9 B  
+		 P G P E P 1  
+		 L Y R M 2  
+		 A N G  
+		 A P 3 S 2  
+		 C 9 o r f 3 8  
+		 Y I P F 4  
+		 R H O Q  
+		 S U R F 2  
+		 M A P 4 K 3  
+		 D C D C 2 B  
+		 M I P O L 1  
+		 Z N F 6 1 3  
+		 P S T P I P 1  
+		 Z N F 6 0 9  
+		 R W D D 4  
+		 H M G A 1  
+		 S T X B P 1  
+		 F T S J 3  
+		 G J A 9  
+		 I N A D L  
+		 S N X 1 1 
+		 G P R 6 1  
+		 G F A P  
+		 T C E A N C  
+		 M I A 3  
+		 S L C 2 5 A 1 6  
+		 A R H G A P 3 6  
+		 R E L N  
+		 G S T O 2  
+		 N S U N 3  
+		 S U N 2  
+		 S T A T 5 B  
+		 C E N P P  
+		 A R M C 1 0  
+		 A B H D 1 0  
+		 C C N G 1  
+		 C 1 5 o r f 3 8 - A P 3 S 2  
+		 T F A M  
+		 M Y H 9  
+		 K I F 2 4  
+		 A C 1 3 8 6 5 5 . 1  
+		 M C M D C 2  
+		 C N T D 1  
+		 S E P T 8  
+		 N F E 2 L 3  
+		 S H 2 D 7  
+		 L I N 7 A  
+		 S L C 1 4 A 1  
+		 P H F 1 5  
+		 D A R S 2  
+		 H M C E S  
+		 C N N M 4  
+		 S R R M 4  
+		 S T 6 G A L 2  
+		 U T P 1 4 C  
+		 S L C 4 6 A 1  
+		 P R K A R 2 B  
+		 V I L 1  
+		 S U C N R 1  
+		 M E P E  
+		 R B F O X 3  
+		 K B T B D 1 3  
+		 E A F 1  
+		 R A B 7 L 1  
+		 U S P 1 5  
+		 E T V 6  
+		 G O L P H 3  
+		 T M E M 2 2 9 B  
+		 C O L 4 A 4  
+		 C 3 o r f 1 4  
+		 O T X 1  
+		 P G R M C 1  
+		 S L C 1 2 A 3  
+		 C 5 o r f 1 5  
+		 V E Z F 1  
+		ÿþi  
+		 A L 6 2 7 1 7 1 . 2  
+		 C A L C R  
+		 T P 5 3 I 1 1  
+		 L U R A P 1  
+		 C 2 o r f 9 1  
+		 F A M 1 2 6 A  
+		 C 1 G A L T 1  
+		 S P R Y 1  
+		 O S B P L 1 0  
+		 A Q P E P  
+		 C B X 5  
+		 P P A P 2 B  
+		 S Y N G R 2  
+		 C A M K 1 D  
+		 R A D 5 1  
+		 H S P A 4 L  
+		 W D R 3 1  
+		 E N T P D 7  
+		 H I C 2  
+		 K C N V 1  
+		 C I R H 1 A  
+		 M R P L 3  
+		 W D R 4 1  
+		 M A P 2 K 1  
+		 P P P 1 R 7  
+		 E N P P 6  
+		 N O C 3 L  
+		 X P O 4  
+		 S T K 4 0  
+		 C 1 o r f 2 1  
+		 C D H R 2  
+		 N O P 2  
+		 F B X L 2 0  
+		 T A B 1  
+		 S P T L C 2  
+		 M Y C B P  
+		 K H S R P  
+		 L R I T 3  
+		 I A H 1  
+		 V A P B  
+		 C Y P 7 B 1  
+		 H N R N P A 0  
+		 Z R S R 1  
+		 F G F B P 3  
+		 T M P P E  
+		 W W C 1  
+		 P I K 3 C A  
+		 F A M 1 6 1 A  
+		 A N G P T 2  
+		 T V P 2 3 A  
+		 Z C 3 H 1 4  
