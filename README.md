@@ -28,11 +28,11 @@ El proyecto está organizado según las etapas de un análisis genómico, y cada
 * __Análisis Funcional y de Rutas:__ se cruzan los genes diferencialmente expresados con las bases de datos de dianas de miRNA y ejecutamos un para identificar qué "rutas de señalización" (ej. "MAPK signaling pathway") están significativamente alteradas en nuestro experimento.
 
 ## COLABORADORES DEL REPOSITORIO
-* Jose Maria Sevilla Avendaño 
-* Jose Antonio Celada Guerrero 
+* José María Sevilla Avendaño 
+* José Antonio Celada Guerrero 
 * Judit Del Valle Molina 
 * Jesús Javier Amat Pamies 
-* Fatima Goiri Presmanes
+* Fátima Goiri Presmanes
 
 ## Licencia del Proyecto
 Este proyecto está distribuido bajo la MIT License.
