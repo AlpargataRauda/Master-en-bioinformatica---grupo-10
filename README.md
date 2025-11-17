@@ -1,17 +1,20 @@
-## Proyecto de Bioinformática: Análisis de Expresión Génica (RNA-Seq)
-Este repositorio es el espacio de trabajo del grupo 10 para la simulación de un análisis de secuenciación de ARN (RNA-Seq). La idea es aplicar un flujo de trabajo real, utilizando las buenas prácticas de Git y GitHub para la colaboración.
+## Proyecto de Bioinformática: Análisis de Dianas de miRNAs y Rutas de Señalización
+Este repositorio es el espacio de trabajo del grupo 10 para la simulación de un proyecto de bioinformática centrado en el análisis de dianas de microARNs (miRNAs) y la identificación de las rutas de señalización biológica que estas regulan. La idea es aplicar un flujo de trabajo real, desde el procesamiento de datos de expresión (RNA-Seq) hasta el análisis de enriquecimiento funcional (Pathway Analysis), utilizando las buenas prácticas de Git y GitHub para la colaboración.
 
 ## Propósito del Proyecto
-El objetivo es procesar las secuencias de ARN para asegurar la trazabilidad completa de los cambios mediante el control de versiones, y utilizar los datos de expresión obtenidos para validar dianas de microARNs.
-
+  1.Procesar datos de RNA-Seq para identificar genes con expresión diferencial.
+  2.Cruzar estos genes con bases de datos de dianas de miRNA (TargetScan, miRDB) para entender qué miRNAs están activos.
+  3. Interpretar el impacto biológico de estos genes/miRNAs mediante el análisis de rutas de señalización (GO, KEGG).
+  
 ## Contenido del Repositorio
 Este repositorio integra dos componentes principales:
-  1. Pipeline de RNA-Seq: Scripts y datos para procesar lecturas de secuenciación.
-  2. Librería de Referencia de miRNAs: Una colección de genes diana asociados a microARNs, obtenidos a partir de las bases de datos [TargetScan](https://www.targetscan.org/) y [miRDB](https://mirdb.org/), ambas reconocidas por su fiabilidad en la predicción de interacciones miRNA–gen. Estos datos se han procesado mediante un diagrama de Venn para identificar genes diana comunes y aumentar la precisión, sirviendo como base para la interpretación biológica de nuestros resultados de secuenciación.
+  1. __Pipeline de RNA-Seq:__ Scripts y datos para procesar lecturas de secuenciación.
+  2. __Librería de Referencia de miRNAs:__ Una colección de genes diana asociados a microARNs, obtenidos a partir de las bases de datos [TargetScan](https://www.targetscan.org/) y [miRDB](https://mirdb.org/), ambas reconocidas por su fiabilidad en la predicción de interacciones miRNA–gen. Estos datos se han procesado mediante un diagrama de Venn para identificar genes diana comunes y aumentar la precisión, sirviendo como base para la interpretación biológica de nuestros resultados de secuenciación.
+  3. __Análisis Funcional:__ Scripts y librerías de referencia (TargetScan, miRDB, Gene Ontology) para interpretar biológicamente los resultados de expresión.
 
 ## Estrucutra del Respositorio
-* [Data](./Data/): aquí podrás encontra los [rawData](./Data/rawData/) que contienen las lecturas de secuenciación crudas (_.fastq.gz_) y metadatos iniciales de las muestras (en formato _.xlsx_) asi como los [processedData](./Data/processedData/) contiene las lecturas limpias intermedias,tablas de datos procesado.(_.txt_) y gráficos de control (_.png_).
-* [Scripts](./Scripts/):: contiene el código ejecutable para cada etapa del pipeline., incluyendo _qc_pipeline.sh_ (control de calidad) y _align_reads.py_ (script de alineamiento).
+* [Data](./Data/): aquí podrás encontra los [rawData](./Data/rawData/) que contienen las lecturas de secuenciación crudas (_.fastq.gz_) y metadatos(en formato _.xlsx_) asi como los [processedData](./Data/processedData/) que contiene las lecturas intermedias y las tablas de datos procesado.(_.txt_) y gráficos de control (_.png_).
+* [Scripts](./Scripts/):: contiene el código ejecutable para cada etapa del pipeline., incluyendo _qc_pipeline.sh_ (control de calidad),  _align_reads.py_ (script de alineamiento) y _pathway_analysis.R_ (script de Análisis Funcional y Rutas).
 * [Results](./Results/):contiene todas las salidas generadas por los scripts [graphics](./Results/graphics/), [analyses](./Results/analyses/), [summary](./Results/summary/) asi como archivos clave _qc_reports_, _aligned_ y _vcf_Files_.
 * [Docs](./Docs/): documentación, protocolos y guías de instalación. Contiene _protocolo_de_Alineamiento.md_ y _Guia_de_Dependencias.md_.
 
@@ -22,6 +25,7 @@ El proyecto está organizado según las etapas de un análisis genómico, y cada
 * __Pre-procesamiento:__ esta etapa incluye el Trimming de adaptadores para obtener archivos FASTQ limpios, listos para alinear.
 * __Alineamiento:__ empleamos herramientas como STAR o HISAT2 (simuladas) para mapear las lecturas contra un genoma de referencia, generando archivos BAM alineados.
 * __Análisis de Expresión Diferencial:__ la tabla de conteos es procesada para identificar los genes regulados que serán la base para la posterior validación de dianas de miRNA.
+* __Análisis Funcional y de Rutas:__ se cruzan los genes diferencialmente expresados con las bases de datos de dianas de miRNA y ejecutamos un para identificar qué "rutas de señalización" (ej. "MAPK signaling pathway") están significativamente alteradas en nuestro experimento.
 
 ## COLABORADORES DEL REPOSITORIO
 * Jose Maria Sevilla Avendaño 
