@@ -1,0 +1,11 @@
+### Dianas comunes de los 5 miRNA de las bases de datos TargetScan y miRDB:
+
+  ZBTB20
+	RORA
+	FAM126B
+	CAMTA1
+	ABCA1
+  SCN1A 
+  SNTB2 
+  KPNA3 
+  TSC22D2 
