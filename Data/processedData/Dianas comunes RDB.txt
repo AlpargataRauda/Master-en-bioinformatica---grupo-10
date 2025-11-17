@@ -1,1 +1,7 @@
+### Dianas comunes de los 5 miRNA estudiados:
 
+ZBTB20
+RORA
+FAM126B
+CAMTA1
+ABCA1
