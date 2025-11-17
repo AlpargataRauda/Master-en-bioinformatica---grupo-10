@@ -4,7 +4,7 @@ Este repositorio es el espacio de trabajo del __grupo 10__ para la simulación d
 ## Propósito del Proyecto
   1. Procesar datos de RNA-Seq para identificar genes con expresión diferencial.
   2. Cruzar estos genes con bases de datos de dianas de miRNA (_TargetScan, miRDB_) para entender qué miRNAs están activos.
-  3. Interpretar el impacto biológico de estos genes/miRNAs mediante el análisis de rutas de señalización (GO, KEGG).
+  3. Interpretar el impacto biológico de estos genes/miRNAs mediante el análisis de rutas de señalización (_GO, KEGG_).
   
 ## Contenido del Repositorio
 Este repositorio integra dos componentes principales:
