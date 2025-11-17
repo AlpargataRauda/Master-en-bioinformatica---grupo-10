@@ -14,7 +14,7 @@ Este repositorio integra dos componentes principales:
 
 ## Estrucutra del Repositorio
 * [Data](./Data/): aquí se encuentra [rawData](./Data/rawData/) que contiene las lecturas de secuenciación crudas (_.fastq.gz_) y metadatos (en formato _.xlsx_) asi como [processedData](./Data/processedData/) que contiene las lecturas intermedias y las tablas de datos procesado (_.txt_) y gráficos de control (_.png_).
-* [Scripts](./Scripts/): contiene el código ejecutable para cada etapa del pipeline., incluyendo _qc_pipeline.sh_ (control de calidad),  _align_reads.py_ (script de alineamiento) y _pathway_analysis.R_ (script de Análisis Funcional y Rutas).
+* [Scripts](./Scripts/): contiene el código ejecutable SIMULADO para cada etapa del pipeline., incluyendo _qc_pipeline.sh_ (control de calidad),  _align_reads.py_ (script de alineamiento) y _pathway_analysis.R_ (script de Análisis Funcional y Rutas).
 * [Results](./Results/):contiene todas las salidas generadas por los scripts [graphics](./Results/graphics/), [analyses](./Results/analyses/), [summary](./Results/summary/) asi como archivos clave _qc_reports_, _aligned_ y _diff_expression_files_.
 * [Docs](./Docs/): documentación (protocolos y guías de instalación), _protocolo_de_Alineamiento.md_ y _Guia_de_Dependencias.md_.
 
