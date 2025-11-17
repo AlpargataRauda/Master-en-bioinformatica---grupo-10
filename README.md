@@ -10,7 +10,7 @@ Este repositorio es el espacio de trabajo del __grupo 10__ para la simulación d
 Este repositorio integra dos componentes principales:
   1. __Pipeline de RNA-Seq:__ scripts y datos para procesar lecturas de secuenciación.
   2. __Librería de Referencia de miRNAs:__ colección de genes diana asociados a microARNs, obtenidos a partir de las bases de datos [TargetScan](https://www.targetscan.org/) y [miRDB](https://mirdb.org/), ambas reconocidas por su fiabilidad en la predicción de interacciones miRNA–gen. Estos datos se han procesado mediante un diagrama de Venn para identificar genes diana comunes y aumentar la precisión, sirviendo como base para la interpretación biológica de nuestros resultados de secuenciación.
-  3. __Análisis Funcional:__ scripts y librerías de referencia (TargetScan, miRDB, Gene Ontology) para interpretar biológicamente los resultados de expresión.
+  3. __Análisis Funcional:__ scripts y librerías de referencia (_TargetScan, miRDB, Gene Ontology_) para interpretar biológicamente los resultados de expresión.
 
 ## Estrucutra del Repositorio
 * [Data](./Data/): aquí se encuentra [rawData](./Data/rawData/) que contiene las lecturas de secuenciación crudas (_.fastq.gz_) y metadatos (en formato _.xlsx_) asi como [processedData](./Data/processedData/) que contiene las lecturas intermedias y las tablas de datos procesado (_.txt_) y gráficos de control (_.png_).
