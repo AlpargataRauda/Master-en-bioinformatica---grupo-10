@@ -1,0 +1,8 @@
+Planning de librerias para hacer lo de secuenciación:
+
+Control de calidad: fastQC, Fastp y multiQC
+Alineamiento: Salmon
+Cuantificación: Salmon
+Análisis de expresión diferencial: DESeq2
+Visualización: pheatmap, complexheatmap
+Enriquecimiento: clusterProfiler (opcional)
